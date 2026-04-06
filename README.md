@@ -2,7 +2,7 @@
 
 > 赛博万魂幡导航 Myriad Soul Banner(MSB万魂幡)
  
->一切的起源: 同事.skill
+>一切的起源: 同事.skill(这里包含了大部分 赛博人物skill )
 
 > **万物皆可 skill，凡是让你失眠的，最后都能为你打工。**
 
