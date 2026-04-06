@@ -44,6 +44,7 @@
 | 老师.skill | 有些题你不是不会，只是少了那个会先皱眉、再举例、最后用口诀把你讲通的人。 | [AdeleZhu/teacher-skill](https://github.com/AdeleZhu/teacher-skill) |
 | 朋友.skill | 有些朋友不是不重要，只是散进了生活里；把那份默契重新留在对话框里，哪天想起都能接上。 | [Lisaaa1017/friend-skill](https://github.com/Lisaaa1017/friend-skill) |
 | 面壁者.skill | 真正重要的计划，最好只活在你脑子里；其余写出来的部分，就留给世界慢慢误会。 | [zhangeven686-dot/dark-forest-skills](https://github.com/zhangeven686-dot/dark-forest-skills) |
+| 逝者.skill | 人会离开，爱不该跟着失焦；把那些语气、习惯和故事整理成还能被后人重新感受到的记忆。 | [awa666353/dead-skills](https://github.com/awa666353/dead-skills) |
 
 ---
 
