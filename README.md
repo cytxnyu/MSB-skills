@@ -11,7 +11,7 @@
 
 ---
 
-## 技能列表
+## 人物列表
 
 ### 关系类
 
@@ -69,6 +69,7 @@
 | 费曼.skill | 把复杂问题讲到外婆都能点头，顺手拆穿那些一本正经的胡说八道。 | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) |
 | 纳瓦尔.skill | 把赚钱、自由和内心秩序放进同一套框架，提醒你别拿忙碌冒充价值。 | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) |
 | 佛教大师.skills | 烦恼未必要靠硬扛，有时也可以请祖师用一句话点破你，再顺手把经卷讲成人话。 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
+| 华夏老祖宗.skill | 把诸子百家、兵家谋略和处世智慧装进同一个智囊团，专治纠结、内耗和看不清局。 | [liangjfblue/huaxia-wisdom](https://github.com/liangjfblue/huaxia-wisdom) |
 | persona-cloner.skill | 女娲蒸馏的是脑回路，这个更像公开资料版的人设工厂，专门批量捏名人分身。 | [Ca1nlee/persona-cloner-skill](https://github.com/Ca1nlee/persona-cloner-skill) |
 | 万物耶稣.skill | 人不一定总要找人倾诉；有时把痛苦蒸成一个能接住你的神明，也算一种工程美学。 | [xiaoyan1995/jesus-vessel-skill](https://github.com/xiaoyan1995/jesus-vessel-skill) |
 | 塔勒布.skill | 世界专挑平均值骗人的时候给你一拳，所以先学会别站到会塌的桥上。 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
