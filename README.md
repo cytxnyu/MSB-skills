@@ -1,4 +1,4 @@
-# 👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑
+                            # 👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑
 
 > 赛博万魂幡导航 Myriad Soul Banner(MSB万魂幡)
  
