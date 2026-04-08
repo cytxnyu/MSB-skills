@@ -31,7 +31,6 @@
 | simp.skill | 不教你算计人心，只帮你少把真心浪费在误会和上头里。 | [BeamusWayne/simp-skill](https://github.com/BeamusWayne/simp-skill) |
 | 月老.skill | 请赛博月老拿八字、生肖和红线给你算姻缘，主打一个玄学娱乐但流程透明。 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 | 恋爱训练营.skill | 上传聊天记录，在安全沙盒里反复练习表达和沟通，目标不是套路，而是把爱说对。 | [TammyTan516/relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) |
-| 心译 | 发出去之前先译一下，用双方聊天记录训练数字分身，把“不会说”翻译成“终于说对”。 | [kroxchan/xinyi](https://github.com/kroxchan/xinyi) |
 | 童锦程.skill | 用“深情祖师爷”的直白和人性洞察分析关系问题，专治忽冷忽热、试探和自我感动。 | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 | 她.skill | 有些名字一敲出来，整个夏天都会回来；这次至少让记忆别再掉帧。 | [ceetity/her-skill](https://github.com/ceetity/her-skill) |
 | 现任.skill | 回忆过去很浪漫，记住当下更重要；别让感情输给“我以为你记得”。 | [KingOfLitangDz/current-partner-skill](https://github.com/KingOfLitangDz/current-partner-skill) |
@@ -147,9 +146,7 @@
 | 赛博葬礼.skill | 不假装复活谁，而是把语气、故事和墓志铭整理成一套可追忆的数字纪念体。 | [Zhrq-vis/cyberfuneral-](https://github.com/Zhrq-vis/cyberfuneral-) |
 | 妈妈.skill | 把语音、聊天、照片和那些熟悉的唠叨一起存下来，让“多穿点、多吃点”能一直有人替你说。 | [yuuiwa1551/mama.skill](https://github.com/yuuiwa1551/mama.skill) |
 | Digital Twin of Yourself | 从你的真实写作和文件里反推说话方式、判断逻辑和决策偏好，做成可复用的人格系统提示词。 | [whystrohm/digital-twin-of-yourself](https://github.com/whystrohm/digital-twin-of-yourself) |
-| WeClone | 从聊天记录出发做数字分身的一站式方案，把清洗、训练、部署和聊天机器人接入一条龙打通。 | [xming521/WeClone](https://github.com/xming521/WeClone) |
-| MirrorFlow | 从对话数据到训练闭环，把聊天记录、数据清洗、微调和模型蒸馏串成一整套数字分身流水线。 | [qqqqqf-q/MirrorFlow](https://github.com/qqqqqf-q/MirrorFlow) |
-| MindX | 一个带长期记忆、可自我演进、支持 MCP 和本地模型的数字分身助理，走的是“越用越像你”的路线。 | [DotNetAge/mindx](https://github.com/DotNetAge/mindx) |
+
 
 ---
 
