@@ -9,13 +9,12 @@
 与其等着生活把你教育成模板，不如先把生活蒸馏成外挂。  
 白天拿它对付老板和需求，晚上拿它安放思念和遗憾，必要时再把乔布斯、芒格、费曼摇进群聊。
 
-> 🔎 想找某个 skill？请直接按 `Ctrl + F` 搜索 skill 名称，例如：`求是.skill`、`导师.skill`、`前任.skill`、`自己.skill`
 
 ## 快速定位
 
+🔎 想找某个 skill？请直接按 `Ctrl + F` 搜索 skill 名称，例如：`求是.skill`、`导师.skill`、`前任.skill`、`自己.skill`
 - [👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑](#️-msb-skills-万魂幡-️)
   - [快速定位](#快速定位)
-  - [一键搜索链接](#一键搜索链接)
   - [人物列表](#人物列表)
     - [关系类](#关系类)
     - [职场类](#职场类)
@@ -23,13 +22,6 @@
     - [纪念类](#纪念类)
   - [劝告](#劝告)
 
-## 一键搜索链接
-
-- [搜索 `求是.skill`](https://github.com/cytxnyu/all-skills/search?q=%22%E6%B1%82%E6%98%AF.skill%22&type=code)
-- [搜索 `导师.skill`](https://github.com/cytxnyu/all-skills/search?q=%22%E5%AF%BC%E5%B8%88.skill%22&type=code)
-- [搜索 `前任.skill`](https://github.com/cytxnyu/all-skills/search?q=%22%E5%89%8D%E4%BB%BB.skill%22&type=code)
-- [搜索 `自己.skill`](https://github.com/cytxnyu/all-skills/search?q=%22%E8%87%AA%E5%B7%B1.skill%22&type=code)
-- [打开仓库搜索页](https://github.com/cytxnyu/all-skills/search)
 
 ---
 
