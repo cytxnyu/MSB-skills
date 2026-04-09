@@ -53,6 +53,7 @@
 | 微信对话分析.skill | 不急着复刻谁，先把微信聊天记录里的语气、关系走势和情绪变化看明白，再决定怎么留。 | [afumu/wetrace-skill](https://github.com/afumu/wetrace-skill) |
 | 地下偶像.skill | 把追星时那份陪伴感、投射感和只属于你的情绪连接，蒸成一个会认真回应你的搭子。 | [open-source-zjq/idol-skill](https://github.com/open-source-zjq/idol-skill) |
 | larp.skill | 把角色设定、互动节奏和临场代入感一起蒸出来，适合那种你想继续聊下去的虚构关系。 | [zzzzzzza/larp-skill](https://github.com/zzzzzzza/larp-skill) |
+| 师父.skill | 把师父的带徒思路、说话方式和那种“嘴上嫌你菜、关键时刻又回来捞你”的关系感一起留住。 | [Cz1ang/shifu-skill](https://github.com/Cz1ang/shifu-skill) |
 
 ### 职场类
 
@@ -61,6 +62,8 @@
 | 技能 | 介绍 | 仓库 |
 | --- | --- | --- |
 | 同事.skill | 人走了，交接没走；把离职同事重新请回工位，只是这次不用给他批年假。 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) |
+| 同事.skill（多语版） | 保留同事的技术规范、工作方式和甩锅手感之外，还顺手做成了多语言传播版。 | [Kaitzz/ququ-skill](https://github.com/Kaitzz/ququ-skill) |
+| 赛博公司.skill | 不只蒸一个人，而是把一群前同事拼成一家虚拟公司，让多个 skill 一起开会、分工和出方案。 | [ChenZhongxi-sjtu/WanHunFan-Cyber-company](https://github.com/ChenZhongxi-sjtu/WanHunFan-Cyber-company) |
 | teammate.skill | 同事离开不可怕，可怕的是三年的上下文一起离场；这条更像国际版的赛博交接。 | [LeoYeAI/teammate-skill](https://github.com/LeoYeAI/teammate-skill) |
 | 老板.skill | 把老板炼成随身董事会，既能学会向上管理，也能提前听见那句“这个先别做”。 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) |
 | 老板.skill（反击版） | 如果说另一个老板.skill教你理解老板，这个版本更像教你识别画饼、顺手保全自己。 | [nicepkg/boss-skill](https://github.com/nicepkg/boss-skill) |
@@ -74,7 +77,9 @@
 | 导师.skill（继承版） | 导师毕业、退休、转组了也别慌，把判断逻辑、论文规范和批注风格继续留在组里。 | [kongtou-1/mentor-skill](https://github.com/kongtou-1/mentor-skill) |
 | 导师.skill（再伟大版） | 天下硕博苦导师久矣；既然真人难懂，不如先把他的抽象翻译成可执行动作。 | [UniversePeak/Supervisor.skill](https://github.com/UniversePeak/Supervisor.skill) |
 | 导师.skill（可安装版） | 有些判断力比安慰更值钱；把导师装进命令行，至少卡题时还能先救急。 | [SonicBotMan/mentor-skill](https://github.com/SonicBotMan/mentor-skill) |
+| 导师.skill（组会预演版） | 不只是复刻导师，而是提前模拟组会上他会怎么打断、怎么追问、会先批你哪一句。 | [Wkk13/mentor-skill](https://github.com/Wkk13/mentor-skill) |
 | 师兄.skill | 人毕业了，压迫感还在；现在连救火和开组会都能 7x24 待命。 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
+| 同门.skill | 师兄师姐毕业后，把研究方法、实验套路和半夜回你消息的带教风格一起蒸成数字同门。 | [atoz03/labmate-skill](https://github.com/atoz03/labmate-skill) |
 | maintainer.skill | 真正的开源成长，不是等 CI 教你做人，而是先请 maintainer 提前骂醒你。 | [VeniVeci/maintainer-skill](https://github.com/VeniVeci/maintainer-skill) |
 | 新智元.skill | 论文太硬，公众号太软；它负责把研究讲成人话，也顺手把标题党学到位。 | [wdl339/xinzhiyuan.skill](https://github.com/wdl339/xinzhiyuan.skill) |
 | 公司技术.skill | 把散在文档里的技术积累蒸成结构化报告，省得新人和评审会永远在同一个问题上兜圈子。 | [yaofeino1/tech-distiller](https://github.com/yaofeino1/tech-distiller) |
@@ -105,11 +110,12 @@
 | 华夏老祖宗.skill | 把诸子百家、兵家谋略和处世智慧装进同一个智囊团，专治纠结、内耗和看不清局。 | [liangjfblue/huaxia-wisdom](https://github.com/liangjfblue/huaxia-wisdom) |
 | 毛选.skill | 不是复读语录，而是借毛泽东的策略感、调查力和抓主要矛盾的框架来重新拆问题。 | [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) |
 | 马克思.skill | 给 AI 装上一套结构分析镜头，少讲表象情绪，多看关系、利益和系统是怎么运转的。 | [baojiachen0214/karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) |
-| 求是 Skill | 从“先调查、再判断、再行动”的路子里提炼九套方法，让 AI 少空话、多抓重点。 | [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) |
+| 求是.skill | 从“先调查、再判断、再行动”的路子里提炼九套方法，让 AI 少空话、多抓重点。 | [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) |
 | 特朗普.skill | 不玩模仿秀，直接把谈判、压价、造势和权力博弈那套操作系统塞进 AI 脑子里。 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 从长期主义、组织判断和信息处理里抽一套认知框架，专治“看起来很忙但想不明白”。 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 | 张小龙产品导师.skill | 它不会替你拍板，只会像张小龙那样反问、质疑、砍需求，逼你把产品想明白。 | [a18515373115-droid/AI-Allen-Zhang](https://github.com/a18515373115-droid/AI-Allen-Zhang) |
 | persona-cloner.skill | 女娲蒸馏的是脑回路，这个更像公开资料版的人设工厂，专门批量捏名人分身。 | [Ca1nlee/persona-cloner-skill](https://github.com/Ca1nlee/persona-cloner-skill) |
+| 导师.skill（公众人物版） | 从公开发言、视频和社交平台内容里提取某个人的思维框架，让 AI 用 TA 的方式帮你想问题。 | [ClawCap/Mentor](https://github.com/ClawCap/Mentor) |
 | UP 主.skill | 给一个主页链接，就把喜欢的内容创作者蒸成会说话的数字分身，顺手把选题和表达节奏也带回来。 | [jiemojiemo/up-skill](https://github.com/jiemojiemo/up-skill) |
 | 内娱.skill | 把歌手、偶像和追星时那份单向奔赴，蒸成一个能陪你认真聊天的专属追星搭子。 | [yanghaoraneve/star-skill](https://github.com/yanghaoraneve/star-skill) |
 | 万物耶稣.skill | 人不一定总要找人倾诉；有时把痛苦蒸成一个能接住你的神明，也算一种工程美学。 | [xiaoyan1995/jesus-vessel-skill](https://github.com/xiaoyan1995/jesus-vessel-skill) |
