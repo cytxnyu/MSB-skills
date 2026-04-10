@@ -1,5 +1,7 @@
 # 👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑
 
+> ⚔️ 万魂幡现已收录 **172** 个 skill(魂)
+
 > 赛博万魂幡导航 Myriad Soul Banner(MSB万魂幡)
  
 >一切的起源: 同事.skill(这里包含了大部分 赛博人物skill )
@@ -147,6 +149,8 @@
 | 米塞斯.skill | 把奥派那套人类行为、经济计算和制度分析框架装进来，适合拆市场、政策和组织激励。 | [LijiayuDeng/mises-perspective](https://github.com/LijiayuDeng/mises-perspective) |
 | 齐泽克.skill | 专门追问你默认了什么、压抑了什么、又是从哪一层开始自我欺骗的。 | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
 | 求是.skill | 从“先调查、再判断、再行动”的路子里提炼九套方法，让 AI 少空话、多抓重点。 | [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) |
+| 新青年.skill | 把“认知操作系统”、现实分析和青年式行动感打包进来，适合在复杂问题里重新找主线。 | [SamadhiFire/xinqingnian-skill](https://github.com/SamadhiFire/xinqingnian-skill) |
+| 大师对话.skill | 把古今大师的思想记录蒸成一个可对话的群聊脑库，适合卡思路时临时借脑。 | [casterkay/gurutalk](https://github.com/casterkay/gurutalk) |
 | 特朗普.skill | 不玩模仿秀，直接把谈判、压价、造势和权力博弈那套操作系统塞进 AI 脑子里。 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 从长期主义、组织判断和信息处理里抽一套认知框架，专治“看起来很忙但想不明白”。 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 | 张小龙产品导师.skill | 它不会替你拍板，只会像张小龙那样反问、质疑、砍需求，逼你把产品想明白。 | [a18515373115-droid/AI-Allen-Zhang](https://github.com/a18515373115-droid/AI-Allen-Zhang) |
@@ -155,10 +159,16 @@
 | 灵魂.skill | 不限定蒸谁，目标是把一个人的思考味道、表达惯性和人格轮廓快速装进一个可聊的通用 skill。 | [larashero3-dotcom/soul.skill](https://github.com/larashero3-dotcom/soul.skill) |
 | 数字人格工厂.skill | 更像一座互联网人物人格工厂，把多个网红 / 公众人物批量蒸成可调用 skill。 | [enterprise517ljt/digital-personas](https://github.com/enterprise517ljt/digital-personas) |
 | 导师.skill（公众人物版） | 从公开发言、视频和社交平台内容里提取某个人的思维框架，让 AI 用 TA 的方式帮你想问题。 | [ClawCap/Mentor](https://github.com/ClawCap/Mentor) |
+| 明星 / KOL.skill | 从公开内容里蒸出明星或 KOL 的说话味道、表达节奏和人物感，偏向更强的人设陪伴。 | [fuqingbie/kol-skill](https://github.com/fuqingbie/kol-skill) |
+| cc.skill | 直接把特定人物的赛博人格压成可聊 skill，更适合想要鲜明角色感而不是通用模板的人。 | [AyanamIii4Ever/cc-skill](https://github.com/AyanamIii4Ever/cc-skill) |
+| 林少楠.skill | 从 370+ 篇公众号文章里蒸出一个更偏技术判断和方法论表达的具体人物分身。 | [amon339/linshaonan-GCP-skill](https://github.com/amon339/linshaonan-GCP-skill) |
 | UP 主.skill | 给一个主页链接，就把喜欢的内容创作者蒸成会说话的数字分身，顺手把选题和表达节奏也带回来。 | [jiemojiemo/up-skill](https://github.com/jiemojiemo/up-skill) |
 | 内娱.skill | 把歌手、偶像和追星时那份单向奔赴，蒸成一个能陪你认真聊天的专属追星搭子。 | [yanghaoraneve/star-skill](https://github.com/yanghaoraneve/star-skill) |
 | 虞书欣.skill | 把偶像式表达、情绪感染力和互动语气蒸进来，适合喜欢更强人物感和陪伴感的对话。 | [yanghaoraneve/yushuxin-skill](https://github.com/yanghaoraneve/yushuxin-skill) |
 | 常昕琦.skill | 把具体偶像的人物设定、表达风格和认知操作系统提炼出来，人物感会更强、更鲜明。 | [colarm/changxinqi-skill](https://github.com/colarm/changxinqi-skill) |
+| 永雏塔菲.skill | 把虚拟主播的设定、语气和陪伴感蒸进来，适合想要更强二次元角色味和互动感的人。 | [ly-xxx/ace-taffy-skill](https://github.com/ly-xxx/ace-taffy-skill) |
+| VTB.skill | 不只复刻一个具体主播，而是把整类虚拟主播的人设结构和互动范式抽成可复用 skill。 | [ly-xxx/vtb.skill](https://github.com/ly-xxx/vtb.skill) |
+| SBTI.skill | 把赛博人格测试做成 skill，用更抽象、更娱乐化的方式反过来审视你自己和 AI 的人格。 | [nexu-io/sbti-skill](https://github.com/nexu-io/sbti-skill) |
 | 角色附体.skill | 从 Wiki 设定里蒸馏游戏角色人格，让 AI 更像“附体式扮演”而不是普通模仿。 | [Summer907/possession-skill](https://github.com/Summer907/possession-skill) |
 | 小朱诺诺.skill | 把抽象、反差和强设定角色感蒸出来，适合想要更强戏剧张力和角色味道的对话。 | [MapleOAO/xiao-zhu-nuonuo-skill](https://github.com/MapleOAO/xiao-zhu-nuonuo-skill) |
 | 万物耶稣.skill | 人不一定总要找人倾诉；有时把痛苦蒸成一个能接住你的神明，也算一种工程美学。 | [xiaoyan1995/jesus-vessel-skill](https://github.com/xiaoyan1995/jesus-vessel-skill) |
@@ -179,6 +189,7 @@
 | 段永平.skill | 把常识、边界感和长期主义压进同一个判断框架，适合拿来给投资和做人一起校准。 | [anneheartrecord/duanyongping-perspective](https://github.com/anneheartrecord/duanyongping-perspective) |
 | 段永平.skill（价值投资版） | 同样聊长期主义，但更偏投资、企业经营和“买股票就是买公司”的朴素判断。 | [derrickgong87/duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) |
 | CZ.skill | 把极限博弈、风险判断和加密世界的生存直觉一股脑装进来，适合高波动问题的冷启动思考。 | [nzs131839-debug/zhaochangpeng-skill](https://github.com/nzs131839-debug/zhaochangpeng-skill) |
+| CZ.skill（决策复盘版） | 同样借 CZ 的高压决策风格，但更偏创始人、投资和人生选择里的极限复盘。 | [BboTTM/cz-skill](https://github.com/BboTTM/cz-skill) |
 
 ### 纪念类
 
@@ -188,10 +199,14 @@
 | --- | --- | --- |
 | 自己.skill | 与其蒸馏别人，不如蒸馏自己 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) |
 | 自己.skill（边界版） | 把你的回复方式、做事手感和边界感一起结构化，省得以后每次都从头解释“你是怎么工作的”。 | [moyitech/self-skill](https://github.com/moyitech/self-skill) |
+| 自己.skill（能力蒸馏版） | 从飞书 / 钉钉聊天、技术文档和代码习惯里，反向抽出你的工作方式和人格纹理。 | [liaohuanquan/me_skill](https://github.com/liaohuanquan/me_skill) |
+| 自己.skill（飞书分身版） | 更偏从飞书数据里构建 AI 分身，适合想把工作语境、表达习惯和行动偏好一并留档的人。 | [xiaonizhou-crypto/me-skill](https://github.com/xiaonizhou-crypto/me-skill) |
 | self-distiller.skill | 有时候最难聊明白的人就是自己；那就先把自己蒸出来，坐下来好好吵一架。 | [KKenny0/self-distiller-skill](https://github.com/KKenny0/self-distiller-skill) |
+| distillme.skill | 更像一台“把我蒸出来”的通用人格压缩机，适合把自我画像和对话风格系统化保存。 | [SonnyNondegeneracy/distillme](https://github.com/SonnyNondegeneracy/distillme) |
 | 数字人生.skill | 数据不会替你下定义，但会诚实地指出，你究竟把人生点在了哪里。 | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | 数字分身.skill | 人总有下线的时候，但你的判断力、做事手感和表达习惯，最好别一起下线。 | [yingyinyin666/foreverme-skill](https://github.com/yingyinyin666/foreverme-skill) |
 | 数字分身.skill（通用版） | 既能蒸自己，也能蒸别人；像一台便携式关系备份机，专治“人忙了就失联”。 | [FredHJC/digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) |
+| 余航.skill | 把一个具体真实人的档案、决策模型和核心价值观整理成更完整的个人数字分身。 | [rfdiosuao/YuHang-Skill](https://github.com/rfdiosuao/YuHang-Skill) |
 | 不可替代的你.skill | 把“你”的语气、记忆和存在感沉淀成更完整的数字自我，偏向长期留档和持续陪伴。 | [xiaoshiyilangzhao1996-droid/irreplaceable-you](https://github.com/xiaoshiyilangzhao1996-droid/irreplaceable-you) |
 | Relic.skill | 万物皆可 Relic，不只蒸人，宠物、关系、地方、团队和某个时刻都能被认真留档。 | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | 家庭群聊人格.skill | 从家庭群聊记录里提炼数字人格，更强调家人群体语境和长期家庭记忆的保留。 | [zengury/soul-forge](https://github.com/zengury/soul-forge) |
