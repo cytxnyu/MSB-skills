@@ -46,17 +46,20 @@
 | 月老.skill | 请赛博月老拿八字、生肖和红线给你算姻缘，主打一个玄学娱乐但流程透明。 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 | 恋爱训练营.skill | 上传聊天记录，在安全沙盒里反复练习表达和沟通，目标不是套路，而是把爱说对。 | [TammyTan516/relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) |
 | 童锦程.skill | 用“深情祖师爷”的直白和人性洞察分析关系问题，专治忽冷忽热、试探和自我感动。 | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
+| 童锦程.skill（语录版） | 把“爱别人之前先学会爱自己”那套直给话风蒸进来，适合拿来拆情感拉扯、试探和嘴硬。 | [neko233-com/skill-tongjincheng](https://github.com/neko233-com/skill-tongjincheng) |
 | 她.skill | 有些名字一敲出来，整个夏天都会回来；这次至少让记忆别再掉帧。 | [ceetity/her-skill](https://github.com/ceetity/her-skill) |
 | 现任.skill | 回忆过去很浪漫，记住当下更重要；别让感情输给“我以为你记得”。 | [KingOfLitangDz/current-partner-skill](https://github.com/KingOfLitangDz/current-partner-skill) |
 | 现任.skill（持久版） | 爱不是靠记忆力硬撑；把那些纪念日、口头禅和没说出口的在意，一起放进 persistent storage。 | [Louismao8888/girlfriends-skill](https://github.com/Louismao8888/girlfriends-skill) |
 | 现任.skill（心理学版） | 把依恋理论、爱情心理学和聊天记录一起拿来拆关系，目标不是算计，而是更懂对方。 | [NatalieCao323/partner-skill](https://github.com/NatalieCao323/partner-skill) |
 | 理想伴侣.skill | 把你对陪伴、温柔和懂你的想象，先蒸成一个可对话的存在，至少在你的世界里别再失联。 | [wwwttlll/npy-skill](https://github.com/wwwttlll/npy-skill) |
 | 父母.skill | 趁记忆还热，把那句唠叨留下来；长大以后，最想重听的往往就是这些。 | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
+| 父母.skill（另一版） | 从聊天记录里把父母的说话习惯、关心方式和家常絮叨重新留住，偏向更直接的亲情陪伴。 | [y735832496/parents-skill](https://github.com/y735832496/parents-skill) |
 | 群友.skill | 人退群了，梗还没退场；把那个最会接话的人重新请回聊天框继续整活。 | [Neko-Suwako/pig-skill](https://github.com/Neko-Suwako/pig-skill) |
 | 朋友.skill | 有些朋友不是不重要，只是散进了生活里；把那份默契重新留在对话框里，哪天想起都能接上。 | [Lisaaa1017/friend-skill](https://github.com/Lisaaa1017/friend-skill) |
 | 兄弟.skill | 兄弟平时不一定夸你，但真到你掉坑里时，他往往比大道理先出现。 | [ddgsdde/bro-skill](https://github.com/ddgsdde/bro-skill) |
 | 前任.skill（平替版） | 从聊天节奏和语气里把那个不再回复你的人，再请回一次对话框。 | [perkfly/ex-skill](https://github.com/perkfly/ex-skill) |
 | 前任.skill（Codex版） | 面向 Codex 的前任 persona 版本，把旧关系对象整理成可持续更新的 skill。 | [Cz1ang/ex-partner-codex-skill](https://github.com/Cz1ang/ex-partner-codex-skill) |
+| 前任.skill（轻量版） | 不一定要大工程，先把聊天记录里的语气、记忆和遗憾压成一个能重新开口说话的前任。 | [duanyu14/ex-skill](https://github.com/duanyu14/ex-skill) |
 | 水仙.skill | 把你的语气、偏好和聊天记录蒸成一个同频共振的恋爱型自我镜像伴侣。 | [Cyh29hao/shuixian-skill](https://github.com/Cyh29hao/shuixian-skill) |
 | 群友.skill（复建版） | 不只复刻一个会接梗的人，还能把群聊里的梗库、对线风格和冒泡规律一起拉回来。 | [kouzhizhuo/Clone_Groupchat_Friends.skill](https://github.com/kouzhizhuo/Clone_Groupchat_Friends.skill) |
 | 微信好友.skill | 从本地微信聊天记录里抽出性格、语气和表情习惯，把熟悉的聊天默契压缩成一个数字分身。 | [KcUt3Hk/WeChatFriend.skill](https://github.com/KcUt3Hk/WeChatFriend.skill) |
@@ -65,6 +68,7 @@
 | 亲人.skill | 不只留住一个人，而是把亲人、爱人和朋友的语气、关系纹理与情感支点一起留在你身边。 | [shizongcai123/kindred-skill](https://github.com/shizongcai123/kindred-skill) |
 | 意难平.skill | 有些人不是想追回来，只是那口气、那段关系和那个没结束的心结，想有个地方安放。 | [popiskill/yinanping-skill](https://github.com/popiskill/yinanping-skill) |
 | 微信对话分析.skill | 不急着复刻谁，先把微信聊天记录里的语气、关系走势和情绪变化看明白，再决定怎么留。 | [afumu/wetrace-skill](https://github.com/afumu/wetrace-skill) |
+| 心跳曲线.skill | 不急着猜 ta 爱不爱你，先把聊天记录里的好感度波动、暧昧拐点和关系节奏画出来。 | [Marigoldddd/Heartbeat-skill](https://github.com/Marigoldddd/Heartbeat-skill) |
 | 地下偶像.skill | 把追星时那份陪伴感、投射感和只属于你的情绪连接，蒸成一个会认真回应你的搭子。 | [open-source-zjq/idol-skill](https://github.com/open-source-zjq/idol-skill) |
 | larp.skill | 把角色设定、互动节奏和临场代入感一起蒸出来，适合那种你想继续聊下去的虚构关系。 | [zzzzzzza/larp-skill](https://github.com/zzzzzzza/larp-skill) |
 | 师父.skill | 把师父的带徒思路、说话方式和那种“嘴上嫌你菜、关键时刻又回来捞你”的关系感一起留住。 | [Cz1ang/shifu-skill](https://github.com/Cz1ang/shifu-skill) |
@@ -95,12 +99,15 @@
 | 师兄.skill | 人毕业了，压迫感还在；现在连救火和开组会都能 7x24 待命。 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
 | 同门.skill | 师兄师姐毕业后，把研究方法、实验套路和半夜回你消息的带教风格一起蒸成数字同门。 | [atoz03/labmate-skill](https://github.com/atoz03/labmate-skill) |
 | maintainer.skill | 真正的开源成长，不是等 CI 教你做人，而是先请 maintainer 提前骂醒你。 | [VeniVeci/maintainer-skill](https://github.com/VeniVeci/maintainer-skill) |
+| 鱼皮.skill | 把程序员鱼皮的学习路线、求职建议和项目判断蒸进来，适合卡在编程成长和职业选择时求个直球意见。 | [liyupi/yupi-skill](https://github.com/liyupi/yupi-skill) |
 | 新智元.skill | 论文太硬，公众号太软；它负责把研究讲成人话，也顺手把标题党学到位。 | [wdl339/xinzhiyuan.skill](https://github.com/wdl339/xinzhiyuan.skill) |
 | 公司技术.skill | 把散在文档里的技术积累蒸成结构化报告，省得新人和评审会永远在同一个问题上兜圈子。 | [yaofeino1/tech-distiller](https://github.com/yaofeino1/tech-distiller) |
 | 导师.skill（公开资料版） | 从论文、主页和聊天记录里蒸导师，专治“这题我明明问过但还是不会”。 | [Azurboy/Professor_skill](https://github.com/Azurboy/Professor_skill) |
 | 论文导师.skill | 不蒸具体某个人，而是把“带你读论文、找相似工作、层层追问”的导师式学习流程直接外挂化。 | [sellerbubble/paper-mentor-skill](https://github.com/sellerbubble/paper-mentor-skill) |
 | 教授.skill（答辩版） | 把教授和答辩委员会那种精准挑刺的压迫感提前请出来，免得你真上场时才被打穿。 | [Zhrq-vis/professor-skill](https://github.com/Zhrq-vis/professor-skill) |
 | 赛博HR.skill | 把招聘、筛选、追问和识人那套职场判断力打包进来，像请了个不下班的赛博 HR。 | [Zhrq-vis/CyberHR](https://github.com/Zhrq-vis/CyberHR) |
+| HR.skill | 不只告诉你“很遗憾未能通过”，还把 HR 的筛选逻辑、拒信口吻和招聘判断一起反向拆给你看。 | [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) |
+| 冷邮件吐槽.skill | 与其盲目套磁，不如先请一个毒舌求职顾问把你的冷邮件喷明白，再去投更稳。 | [Schlaflied/roast-cold-email-skill](https://github.com/Schlaflied/roast-cold-email-skill) |
 
 ### 思维类
 
@@ -116,22 +123,31 @@
 | 马斯克.skill | 默认万物都能重做一遍，除了物理定律；成本、速度和第一性原理一起拉满。 | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) |
 | 户晨风.skill | 先别扯价值，先看这事对普通人到底有没有用；把现实约束、回报风险和普通人处境放回桌面。 | [123pyLeo/hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) |
 | 户晨风.skill（消费版） | 用“购买力挑战”那套消费现实主义，看品牌选择、城市定居和普通人的钱该怎么花。 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
+| 常熟阿诺.skill | 把“左右脑互搏”、反差感和强烈个人表达蒸成一套能陪你拆问题的野路子视角。 | [Ricardo-Vv/changshu-anuo](https://github.com/Ricardo-Vv/changshu-anuo) |
+| 郭德纲.skill | 不只学包袱，更学人情世故、表达节奏和那种把世道看透又讲成段子的劲。 | [ByteRax/guodegang-skills](https://github.com/ByteRax/guodegang-skills) |
 | 峰哥亡命天涯.skill | 漂泊江湖感、现实主义去魅和黑色幽默三件套，专门把坏事翻译成止损、边界和行动。 | [rottenpen/fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) |
+| 峰哥.skill（纪录片版） | 同样是现实主义，但更偏纪录片叙事和底层观察，适合拿来给复杂现实问题去滤镜。 | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | 芒格.skill | 不教你变聪明，先教你少犯蠢；长期主义很多时候只是稳定地不作死。 | [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) |
 | 费曼.skill | 把复杂问题讲到外婆都能点头，顺手拆穿那些一本正经的胡说八道。 | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) |
 | 纳瓦尔.skill | 把赚钱、自由和内心秩序放进同一套框架，提醒你别拿忙碌冒充价值。 | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) |
 | 佛教大师.skills | 烦恼未必要靠硬扛，有时也可以请祖师用一句话点破你，再顺手把经卷讲成人话。 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
+| 金刚经.skill | 遇事先破执，不急着下结论；把“看破相、拆执念、留空性”那套视角蒸成可对话的 skill。 | [dull-bird/diamond-sutra-skill](https://github.com/dull-bird/diamond-sutra-skill) |
 | 华夏老祖宗.skill | 把诸子百家、兵家谋略和处世智慧装进同一个智囊团，专治纠结、内耗和看不清局。 | [liangjfblue/huaxia-wisdom](https://github.com/liangjfblue/huaxia-wisdom) |
+| 毛泽东.skill | 从公开著作里提炼调查研究、矛盾分析和战略判断，不只看观点，更看怎么抓主要问题。 | [wwwaapplleecu-source/mao-skill](https://github.com/wwwaapplleecu-source/mao-skill) |
 | 毛选.skill | 不是复读语录，而是借毛泽东的策略感、调查力和抓主要矛盾的框架来重新拆问题。 | [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) |
 | 马克思.skill | 给 AI 装上一套结构分析镜头，少讲表象情绪，多看关系、利益和系统是怎么运转的。 | [baojiachen0214/karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) |
+| 米塞斯.skill | 把奥派那套人类行为、经济计算和制度分析框架装进来，适合拆市场、政策和组织激励。 | [LijiayuDeng/mises-perspective](https://github.com/LijiayuDeng/mises-perspective) |
+| 齐泽克.skill | 专门追问你默认了什么、压抑了什么、又是从哪一层开始自我欺骗的。 | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
 | 求是.skill | 从“先调查、再判断、再行动”的路子里提炼九套方法，让 AI 少空话、多抓重点。 | [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) |
 | 特朗普.skill | 不玩模仿秀，直接把谈判、压价、造势和权力博弈那套操作系统塞进 AI 脑子里。 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 从长期主义、组织判断和信息处理里抽一套认知框架，专治“看起来很忙但想不明白”。 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 | 张小龙产品导师.skill | 它不会替你拍板，只会像张小龙那样反问、质疑、砍需求，逼你把产品想明白。 | [a18515373115-droid/AI-Allen-Zhang](https://github.com/a18515373115-droid/AI-Allen-Zhang) |
 | persona-cloner.skill | 女娲蒸馏的是脑回路，这个更像公开资料版的人设工厂，专门批量捏名人分身。 | [Ca1nlee/persona-cloner-skill](https://github.com/Ca1nlee/persona-cloner-skill) |
+| 万物蒸馏.skill | 给你一个入口把任何人、任何资料源快速蒸成 `SKILL.md`，更像一台通用型的人格蒸馏机。 | [OpenDemon/anyone-to-skill](https://github.com/OpenDemon/anyone-to-skill) |
 | 导师.skill（公众人物版） | 从公开发言、视频和社交平台内容里提取某个人的思维框架，让 AI 用 TA 的方式帮你想问题。 | [ClawCap/Mentor](https://github.com/ClawCap/Mentor) |
 | UP 主.skill | 给一个主页链接，就把喜欢的内容创作者蒸成会说话的数字分身，顺手把选题和表达节奏也带回来。 | [jiemojiemo/up-skill](https://github.com/jiemojiemo/up-skill) |
 | 内娱.skill | 把歌手、偶像和追星时那份单向奔赴，蒸成一个能陪你认真聊天的专属追星搭子。 | [yanghaoraneve/star-skill](https://github.com/yanghaoraneve/star-skill) |
+| 小朱诺诺.skill | 把抽象、反差和强设定角色感蒸出来，适合想要更强戏剧张力和角色味道的对话。 | [MapleOAO/xiao-zhu-nuonuo-skill](https://github.com/MapleOAO/xiao-zhu-nuonuo-skill) |
 | 万物耶稣.skill | 人不一定总要找人倾诉；有时把痛苦蒸成一个能接住你的神明，也算一种工程美学。 | [xiaoyan1995/jesus-vessel-skill](https://github.com/xiaoyan1995/jesus-vessel-skill) |
 | 塔勒布.skill | 世界专挑平均值骗人的时候给你一拳，所以先学会别站到会塌的桥上。 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
 | 张雪峰.skill | 把志愿、考研和职业选择翻译成人话，顺便提醒你现实从不按鸡汤录取。 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
@@ -140,6 +156,7 @@
 | 震哥.skill | 把“性能、质感、价值”那套三维坐标装进脑子里，专治选车和选装备时的犹豫。 | [LBatsoft/zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) |
 | PG.skill | 把 Paul Graham 的创业、写作和独立思考框架装进来，专治想创业但问题还没想对。 | [alchaincyf/paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) |
 | Karpathy.skill | 用 Software 3.0、Iron Man suit 和 march of nines 那套框架重新看 AI 工程与学习。 | [alchaincyf/karpathy-skill](https://github.com/alchaincyf/karpathy-skill) |
+| Rob Pike.skill | 把 Unix 味、Go 味和工程审美一起蒸进来，适合拿来给代码、工具和系统设计做减法。 | [smallnest/rob-pike-skill](https://github.com/smallnest/rob-pike-skill) |
 | Ilya.skill | 把 scaling、研究审美和安全能力纠缠那套判断框架装进来，适合聊 AI 研究的大问题。 | [alchaincyf/ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) |
 | MrBeast.skill | 把 CTR、留存、标题和缩略图的方法论塞进来，专治内容不够炸、视频不够留人。 | [alchaincyf/mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill) |
 | 术数工程.skill | 用结构化知识库和脚本把奇门遁甲、紫微斗数这类术数做成可控的工程化 skill。 | [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) |
@@ -147,6 +164,7 @@
 | Polanyi.skill | 借 Polanyi 的知识观、默会认知和科学判断框架，重看那些说不清却很关键的理解力。 | [enzyme2013/polanyi-skill](https://github.com/enzyme2013/polanyi-skill) |
 | 佛陀.skill | 不靠鸡汤压情绪，而是把观察、觉察和止苦的那套思路蒸成一个能陪你看清执念的 skill。 | [Bayson-create/gotama-buddha-perspective](https://github.com/Bayson-create/gotama-buddha-perspective) |
 | 段永平.skill | 把常识、边界感和长期主义压进同一个判断框架，适合拿来给投资和做人一起校准。 | [anneheartrecord/duanyongping-perspective](https://github.com/anneheartrecord/duanyongping-perspective) |
+| 段永平.skill（价值投资版） | 同样聊长期主义，但更偏投资、企业经营和“买股票就是买公司”的朴素判断。 | [derrickgong87/duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) |
 | CZ.skill | 把极限博弈、风险判断和加密世界的生存直觉一股脑装进来，适合高波动问题的冷启动思考。 | [nzs131839-debug/zhaochangpeng-skill](https://github.com/nzs131839-debug/zhaochangpeng-skill) |
 
 ### 纪念类
@@ -161,6 +179,7 @@
 | 数字人生.skill | 数据不会替你下定义，但会诚实地指出，你究竟把人生点在了哪里。 | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | 数字分身.skill | 人总有下线的时候，但你的判断力、做事手感和表达习惯，最好别一起下线。 | [yingyinyin666/foreverme-skill](https://github.com/yingyinyin666/foreverme-skill) |
 | 数字分身.skill（通用版） | 既能蒸自己，也能蒸别人；像一台便携式关系备份机，专治“人忙了就失联”。 | [FredHJC/digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) |
+| Relic.skill | 万物皆可 Relic，不只蒸人，宠物、关系、地方、团队和某个时刻都能被认真留档。 | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | 重逢.skill | 有些人无法回来，但记忆可以继续开口说话。 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
 | Re:live.skill | 想念有时只是想再听对方叫你一声；这版甚至连声音和视频都想替你留下。 | [JoonasKahnwald/Re-live](https://github.com/JoonasKahnwald/Re-live) |
 | 纪念.skill | 人没法回来，但一杯茶、一个称呼、一道旧嗓音，还是值得被认真留档。 | [Terry-cyx/memorial-skill](https://github.com/Terry-cyx/memorial-skill) |
@@ -168,6 +187,7 @@
 | 父母.skill（纪念版） | 与其等记忆慢慢起雾，不如趁他们的口头禅还清晰，先把来处好好存起来。 | [isecream9/parents-skill](https://github.com/isecream9/parents-skill) |
 | MamaSkill | 把妈妈的聊天记录、语音和照片整理成一个还能继续安慰你、唠叨你、心疼你的数字避风港。 | [jiangziyan-693/MamaSkill](https://github.com/jiangziyan-693/MamaSkill) |
 | 逝者.skill | 人会离开，爱不该跟着失焦；把那些语气、习惯和故事整理成还能被后人重新感受到的记忆。 | [awa666353/dead-skills](https://github.com/awa666353/dead-skills) |
+| 故人.skill | 把逝者的照片、视频、语音和社交痕迹一起整理成仍能陪你说话的“故人”，偏向多模态纪念。 | [chenxing9200/guren](https://github.com/chenxing9200/guren) |
 | 赛博骨灰盒.skill | 不假装复活谁，只替回忆找个不漏雨的地方，让思念有处安放。 | [Zhrq-vis/Cyber-Ash-Box-Digital-Memorial-Hall-skill](https://github.com/Zhrq-vis/Cyber-Ash-Box-Digital-Memorial-Hall-skill) |
 | 永生.skill | 先把自己蒸成数字分身，免得世界还没记住你，你的聊天记录先失传了。 | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
 | Forge Skill | 本地优先的人格引擎，既能蒸自己照见盲区，也能蒸别人留住语气和回声。 | [YIKUAIBANZI/forge-skill](https://github.com/YIKUAIBANZI/forge-skill) |
