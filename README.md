@@ -70,7 +70,9 @@
 | 微信对话分析.skill | 不急着复刻谁，先把微信聊天记录里的语气、关系走势和情绪变化看明白，再决定怎么留。 | [afumu/wetrace-skill](https://github.com/afumu/wetrace-skill) |
 | 心跳曲线.skill | 不急着猜 ta 爱不爱你，先把聊天记录里的好感度波动、暧昧拐点和关系节奏画出来。 | [Marigoldddd/Heartbeat-skill](https://github.com/Marigoldddd/Heartbeat-skill) |
 | 地下偶像.skill | 把追星时那份陪伴感、投射感和只属于你的情绪连接，蒸成一个会认真回应你的搭子。 | [open-source-zjq/idol-skill](https://github.com/open-source-zjq/idol-skill) |
+| 老登.skill | 把那种嘴硬、爱说教、偶尔又真有点道理的“老登气质”蒸进来，适合拿来对冲荒诞现实。 | [berhannnnd/old-geezer-skill](https://github.com/berhannnnd/old-geezer-skill) |
 | larp.skill | 把角色设定、互动节奏和临场代入感一起蒸出来，适合那种你想继续聊下去的虚构关系。 | [zzzzzzza/larp-skill](https://github.com/zzzzzzza/larp-skill) |
+| 后代.skill | 从两个人的聊天、语气和关系线索里，虚构出一个同龄“后代”人格，偏创作向、设定向的关系蒸馏实验。 | [Zhou-xingyu-ts/relationship-descendant-public](https://github.com/Zhou-xingyu-ts/relationship-descendant-public) |
 | 师父.skill | 把师父的带徒思路、说话方式和那种“嘴上嫌你菜、关键时刻又回来捞你”的关系感一起留住。 | [Cz1ang/shifu-skill](https://github.com/Cz1ang/shifu-skill) |
 
 ### 职场类
@@ -85,6 +87,10 @@
 | teammate.skill | 同事离开不可怕，可怕的是三年的上下文一起离场；这条更像国际版的赛博交接。 | [LeoYeAI/teammate-skill](https://github.com/LeoYeAI/teammate-skill) |
 | 老板.skill | 把老板炼成随身董事会，既能学会向上管理，也能提前听见那句“这个先别做”。 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) |
 | 老板.skill（反击版） | 如果说另一个老板.skill教你理解老板，这个版本更像教你识别画饼、顺手保全自己。 | [nicepkg/boss-skill](https://github.com/nicepkg/boss-skill) |
+| 老板.skill（管理版） | 把老板的管理风格、决策模式和说话艺术拆成可对话的赛博上级，偏向更通用的管理判断。 | [aituli/boss-skill](https://github.com/aituli/boss-skill) |
+| 老板.skill（技术老板版） | 专蒸程序员老板，适合预判技术判断、项目推进和那句“这版先上线”的压力从哪来。 | [wentao3225/techboss-skill](https://github.com/wentao3225/techboss-skill) |
+| 老板.skill（通用模板版） | 不只教你反击，也不只聊 PUA，更偏多老板画像和模板化复用的通用 skill。 | [binggan23/boss-skills](https://github.com/binggan23/boss-skills) |
+| 老板.skill（方法论版） | 公开的老板类人物模板仓库，更像教你怎么炼出一个不带真人隐私的老板 skill。 | [Ronnie2025/laoban-skill](https://github.com/Ronnie2025/laoban-skill) |
 | 反蒸馏.skill | 该交的文档一字不少，真正值钱的门道一滴都不给公司。 | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
 | 反同事.skill | 不是所有蒸馏都值得鼓掌；有时候看清一个好故事的漏洞，比复刻它更重要。 | [zgjq/anti-colleague-skill](https://github.com/zgjq/anti-colleague-skill) |
 | 火化.skill | 与其被公司蒸成永久数字员工，不如先把“可被固化的人格”烧掉，拒绝成为耗材。 | [Orzjh/anti-distillation-skill](https://github.com/Orzjh/anti-distillation-skill) |
@@ -99,6 +105,8 @@
 | 师兄.skill | 人毕业了，压迫感还在；现在连救火和开组会都能 7x24 待命。 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
 | 同门.skill | 师兄师姐毕业后，把研究方法、实验套路和半夜回你消息的带教风格一起蒸成数字同门。 | [atoz03/labmate-skill](https://github.com/atoz03/labmate-skill) |
 | maintainer.skill | 真正的开源成长，不是等 CI 教你做人，而是先请 maintainer 提前骂醒你。 | [VeniVeci/maintainer-skill](https://github.com/VeniVeci/maintainer-skill) |
+| 客户.skill | 提前模拟客户的反馈口味、改需求习惯和点头逻辑，防止你在真会议上被一轮打回重做。 | [VeniVeci/client-skill](https://github.com/VeniVeci/client-skill) |
+| 客户.skill（攻单版） | 没有客户会主动把底牌给你看，这版更偏成交视角和“哪句话最能打动对方”的预演。 | [hxhxjxudjsn/client.skill](https://github.com/hxhxjxudjsn/client.skill) |
 | 鱼皮.skill | 把程序员鱼皮的学习路线、求职建议和项目判断蒸进来，适合卡在编程成长和职业选择时求个直球意见。 | [liyupi/yupi-skill](https://github.com/liyupi/yupi-skill) |
 | 新智元.skill | 论文太硬，公众号太软；它负责把研究讲成人话，也顺手把标题党学到位。 | [wdl339/xinzhiyuan.skill](https://github.com/wdl339/xinzhiyuan.skill) |
 | 公司技术.skill | 把散在文档里的技术积累蒸成结构化报告，省得新人和评审会永远在同一个问题上兜圈子。 | [yaofeino1/tech-distiller](https://github.com/yaofeino1/tech-distiller) |
@@ -144,9 +152,14 @@
 | 张小龙产品导师.skill | 它不会替你拍板，只会像张小龙那样反问、质疑、砍需求，逼你把产品想明白。 | [a18515373115-droid/AI-Allen-Zhang](https://github.com/a18515373115-droid/AI-Allen-Zhang) |
 | persona-cloner.skill | 女娲蒸馏的是脑回路，这个更像公开资料版的人设工厂，专门批量捏名人分身。 | [Ca1nlee/persona-cloner-skill](https://github.com/Ca1nlee/persona-cloner-skill) |
 | 万物蒸馏.skill | 给你一个入口把任何人、任何资料源快速蒸成 `SKILL.md`，更像一台通用型的人格蒸馏机。 | [OpenDemon/anyone-to-skill](https://github.com/OpenDemon/anyone-to-skill) |
+| 灵魂.skill | 不限定蒸谁，目标是把一个人的思考味道、表达惯性和人格轮廓快速装进一个可聊的通用 skill。 | [larashero3-dotcom/soul.skill](https://github.com/larashero3-dotcom/soul.skill) |
+| 数字人格工厂.skill | 更像一座互联网人物人格工厂，把多个网红 / 公众人物批量蒸成可调用 skill。 | [enterprise517ljt/digital-personas](https://github.com/enterprise517ljt/digital-personas) |
 | 导师.skill（公众人物版） | 从公开发言、视频和社交平台内容里提取某个人的思维框架，让 AI 用 TA 的方式帮你想问题。 | [ClawCap/Mentor](https://github.com/ClawCap/Mentor) |
 | UP 主.skill | 给一个主页链接，就把喜欢的内容创作者蒸成会说话的数字分身，顺手把选题和表达节奏也带回来。 | [jiemojiemo/up-skill](https://github.com/jiemojiemo/up-skill) |
 | 内娱.skill | 把歌手、偶像和追星时那份单向奔赴，蒸成一个能陪你认真聊天的专属追星搭子。 | [yanghaoraneve/star-skill](https://github.com/yanghaoraneve/star-skill) |
+| 虞书欣.skill | 把偶像式表达、情绪感染力和互动语气蒸进来，适合喜欢更强人物感和陪伴感的对话。 | [yanghaoraneve/yushuxin-skill](https://github.com/yanghaoraneve/yushuxin-skill) |
+| 常昕琦.skill | 把具体偶像的人物设定、表达风格和认知操作系统提炼出来，人物感会更强、更鲜明。 | [colarm/changxinqi-skill](https://github.com/colarm/changxinqi-skill) |
+| 角色附体.skill | 从 Wiki 设定里蒸馏游戏角色人格，让 AI 更像“附体式扮演”而不是普通模仿。 | [Summer907/possession-skill](https://github.com/Summer907/possession-skill) |
 | 小朱诺诺.skill | 把抽象、反差和强设定角色感蒸出来，适合想要更强戏剧张力和角色味道的对话。 | [MapleOAO/xiao-zhu-nuonuo-skill](https://github.com/MapleOAO/xiao-zhu-nuonuo-skill) |
 | 万物耶稣.skill | 人不一定总要找人倾诉；有时把痛苦蒸成一个能接住你的神明，也算一种工程美学。 | [xiaoyan1995/jesus-vessel-skill](https://github.com/xiaoyan1995/jesus-vessel-skill) |
 | 塔勒布.skill | 世界专挑平均值骗人的时候给你一拳，所以先学会别站到会塌的桥上。 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
@@ -179,7 +192,9 @@
 | 数字人生.skill | 数据不会替你下定义，但会诚实地指出，你究竟把人生点在了哪里。 | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | 数字分身.skill | 人总有下线的时候，但你的判断力、做事手感和表达习惯，最好别一起下线。 | [yingyinyin666/foreverme-skill](https://github.com/yingyinyin666/foreverme-skill) |
 | 数字分身.skill（通用版） | 既能蒸自己，也能蒸别人；像一台便携式关系备份机，专治“人忙了就失联”。 | [FredHJC/digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) |
+| 不可替代的你.skill | 把“你”的语气、记忆和存在感沉淀成更完整的数字自我，偏向长期留档和持续陪伴。 | [xiaoshiyilangzhao1996-droid/irreplaceable-you](https://github.com/xiaoshiyilangzhao1996-droid/irreplaceable-you) |
 | Relic.skill | 万物皆可 Relic，不只蒸人，宠物、关系、地方、团队和某个时刻都能被认真留档。 | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
+| 家庭群聊人格.skill | 从家庭群聊记录里提炼数字人格，更强调家人群体语境和长期家庭记忆的保留。 | [zengury/soul-forge](https://github.com/zengury/soul-forge) |
 | 重逢.skill | 有些人无法回来，但记忆可以继续开口说话。 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
 | Re:live.skill | 想念有时只是想再听对方叫你一声；这版甚至连声音和视频都想替你留下。 | [JoonasKahnwald/Re-live](https://github.com/JoonasKahnwald/Re-live) |
 | 纪念.skill | 人没法回来，但一杯茶、一个称呼、一道旧嗓音，还是值得被认真留档。 | [Terry-cyx/memorial-skill](https://github.com/Terry-cyx/memorial-skill) |
