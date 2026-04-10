@@ -56,12 +56,6 @@ def bool_mark(value: bool) -> str:
     return "✅" if value else "❌"
 
 
-def skill_md_mark(record: dict) -> str:
-    if not record["skill_md_verified"]:
-        return "❌"
-    return "✅ root" if record["skill_md_location"] == "root" else "✅ subdir"
-
-
 def score_text(record: dict) -> str:
     scores = record["scores"]
     return f"用{scores['usability']} / 整{scores['completeness']} / 维{scores['maintenance']} / 隐{scores['privacy_friendliness']}"
@@ -69,10 +63,6 @@ def score_text(record: dict) -> str:
 
 def activity_text(record: dict) -> str:
     return f"{record['last_pushed_at']} / {record['active_bucket']}"
-
-
-def labels_text(record: dict) -> str:
-    return joined(record["labels"])
 
 
 def repo_link(record: dict) -> str:
@@ -99,23 +89,21 @@ def category_table(skills: list[dict], category: str) -> str:
         "",
         CATEGORY_INTROS[category],
         "",
-        "| 技能 | 一句话定位 | 适用场景 | 来源类型 | 隐私等级 | SKILL.md | 安装难度 | 新手友好 | 最近活跃度 | 4项评分 | 标签 | 仓库 |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| 技能 | 一句话定位 | 适用场景 | 来源类型 | 隐私等级 | 安装难度 | 新手友好 | 最近活跃度 | 4项评分 | 仓库 |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for record in rows:
         lines.append(
-            "| {name} | {summary} | {scenes} | {sources} | {privacy} | {skill_md} | {install} | {beginner} | {activity} | {scores} | {labels} | {repo} |".format(
+            "| {name} | {summary} | {scenes} | {sources} | {privacy} | {install} | {beginner} | {activity} | {scores} | {repo} |".format(
                 name=record["name"],
                 summary=record["summary"],
                 scenes=joined(record["scene_tags"]),
                 sources=joined(record["source_types"]),
                 privacy=record["privacy_level"],
-                skill_md=skill_md_mark(record),
                 install=record["install_difficulty"],
                 beginner=bool_mark(record["beginner_friendly"]),
                 activity=activity_text(record),
                 scores=score_text(record),
-                labels=labels_text(record),
                 repo=repo_link(record),
             )
         )

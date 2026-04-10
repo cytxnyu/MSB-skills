@@ -59,7 +59,6 @@ RISK_VOCAB = [
 PRIVACY_LEVELS = ["低", "中", "高", "极高"]
 INSTALL_DIFFICULTIES = ["低", "中", "高"]
 ACTIVE_BUCKETS = ["30天内活跃", "90天内活跃", "180天内活跃", "180天以上"]
-LABEL_VOCAB = ["新手推荐", "研究价值高", "情绪价值强", "方法论强"]
 COMPARE_GROUPS = ["前任.skill", "自己.skill", "老板.skill", "导师.skill", "父母.skill", "偶像陪伴"]
 REPO_REPLACEMENTS = {
     "Lisaaa1017/friend-skill": "1544501967/friend-skill",
@@ -455,20 +454,6 @@ def score_privacy_friendliness(privacy_level: str, source_types: list[str]) -> i
     return 1
 
 
-def determine_labels(scene_tags: list[str], install_difficulty: str, beginner_friendly: bool, scores: dict[str, int], tree: list[dict], category: str) -> list[str]:
-    labels: list[str] = []
-    if beginner_friendly and install_difficulty != "高" and scores["usability"] >= 4 and scores["completeness"] >= 4:
-        labels.append("新手推荐")
-    blob_paths = [item["path"] for item in tree if item.get("type") == "blob"]
-    if scores["completeness"] >= 4 and any(path.startswith(("src/", "tools/", "scripts/", "examples/")) for path in blob_paths):
-        labels.append("研究价值高")
-    if set(scene_tags) & {"失恋", "恋爱沟通", "亲人纪念", "偶像陪伴", "亲友陪伴"}:
-        labels.append("情绪价值强")
-    if category == "思维类" or set(scene_tags) & {"方法论思考", "商业投资", "导师学术"}:
-        labels.append("方法论强")
-    return [item for item in LABEL_VOCAB if item in labels]
-
-
 def determine_compare_groups(name: str, scene_tags: list[str], focus_object: str) -> list[str]:
     groups: list[str] = []
     normalized = name.lower()
@@ -569,7 +554,6 @@ def ensure_metadata(catalog: dict) -> dict:
         "privacy_levels": PRIVACY_LEVELS,
         "install_difficulties": INSTALL_DIFFICULTIES,
         "active_buckets": ACTIVE_BUCKETS,
-        "labels": LABEL_VOCAB,
     }
     catalog["rubric"] = RUBRIC
     return catalog
@@ -667,7 +651,6 @@ def audit_skill(skill: dict) -> dict:
     focus_object = determine_focus_object(skill["name"], scene_tags, aggregated_text)
     compare_group = determine_compare_groups(skill["name"], scene_tags, focus_object)
     compare_note = build_compare_note(source_types, risk_tags, install_difficulty, focus_object)
-    labels = determine_labels(scene_tags, install_difficulty, beginner_friendly, scores, tree, skill["category"])
     evidence_summary = build_evidence_summary(readme_path, aggregated_text, source_types, skill_md_verified, skill_md_location, inspected_files, install_difficulty, scene_tags)
     skill.update(
         {
@@ -693,7 +676,6 @@ def audit_skill(skill: dict) -> dict:
                 "review_method": "manual_repo_audit",
             },
             "scores": scores,
-            "labels": labels,
             "compare_group": compare_group,
             "compare_note": compare_note,
         }

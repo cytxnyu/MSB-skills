@@ -1,7 +1,7 @@
 meta:
   title: MSB Skills 万魂幡
   audited_at: '2026-04-10'
-  total_skills: 172
+  total_skills: 196
   source: GitHub repository audit
   featured_scenes:
   - 失恋
@@ -59,11 +59,6 @@ vocab:
   - 90天内活跃
   - 180天内活跃
   - 180天以上
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
 rubric:
   usability:
     1: 几乎无法直接上手
@@ -130,10 +125,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -175,8 +166,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -218,10 +207,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -265,10 +250,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -312,10 +293,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: xiaoheizi8--crush-skills
@@ -358,10 +335,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: snake-modin--crush-skill
@@ -404,10 +377,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: nataliecao323--crush-skill
@@ -450,10 +419,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -497,9 +462,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: beamuswayne--simp-skill
@@ -541,11 +503,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖社交媒体、多模态遗物，风险侧重高情绪依赖型，安装难度中。
 - id: ming-h--yinyuan-skills
@@ -583,10 +540,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是月老.skill，主要依赖结构化输入，风险侧重高情绪依赖型，安装难度低。
 - id: tammytan516--relationship-training-skill
@@ -625,9 +578,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: hotcoffeeshake--tong-jincheng-skill
@@ -668,10 +618,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
 - id: neko233-com--skill-tongjincheng
@@ -712,10 +658,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
 - id: ceetity--her-skill
@@ -758,10 +700,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: kingoflitangdz--current-partner-skill
@@ -805,10 +743,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、纪念型，安装难度中。
 - id: louismao8888--girlfriends-skill
@@ -851,10 +785,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -898,10 +828,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: wwwttlll--npy-skill
@@ -944,10 +870,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: xiaoheizi8--parents-skills
@@ -991,10 +913,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 父母.skill
   compare_note: 核心对象是父母 / 家庭记忆，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度中。
@@ -1040,10 +958,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 父母.skill
   compare_note: 核心对象是父母 / 家庭记忆，主要依赖代码记录、公开资料，风险侧重公开资料型、私密聊天型，安装难度中。
@@ -1087,10 +1001,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: 1544501967--friend-skill
@@ -1133,10 +1043,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: ddgsdde--bro-skill
@@ -1179,9 +1085,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: perkfly--ex-skill
@@ -1224,10 +1127,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -1270,9 +1169,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -1316,10 +1212,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 前任.skill
   compare_note: 核心对象是前任 / 旧关系，主要依赖社交媒体、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -1364,9 +1256,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、公开资料，风险侧重私密聊天型、纪念型，安装难度高。
 - id: kouzhizhuo--clone_groupchat_friends.skill
@@ -1408,9 +1297,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: kcut3hk--wechatfriend.skill
@@ -1453,10 +1339,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: guanpu815--ex-friend-skill
@@ -1497,8 +1379,6 @@ skills:
     completeness: 3
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖多模态遗物、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: xmlans--codegirl-skill
@@ -1541,10 +1421,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、代码记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: shizongcai123--kindred-skill
@@ -1588,10 +1464,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、工作文档，风险侧重私密聊天型、纪念型，安装难度中。
 - id: popiskill--yinanping-skill
@@ -1632,10 +1504,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: afumu--wetrace-skill
@@ -1676,11 +1544,6 @@ skills:
     completeness: 4
     maintenance: 4
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、代码记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: marigoldddd--heartbeat-skill
@@ -1724,9 +1587,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度高。
 - id: open-source-zjq--idol-skill
@@ -1768,10 +1628,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
@@ -1814,9 +1670,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖聊天记录、工作文档，风险侧重私密聊天型，安装难度高。
 - id: zzzzzzza--larp-skill
@@ -1858,9 +1711,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录，风险侧重私密聊天型、纪念型，安装难度高。
 - id: zhou-xingyu-ts--relationship-descendant-public
@@ -1901,10 +1751,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖多模态遗物、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: cz1ang--shifu-skill
@@ -1945,10 +1791,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: titanwings--colleague-skill
@@ -1991,10 +1833,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: kaitzz--ququ-skill
@@ -2036,9 +1874,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度高。
 - id: chenzhongxi-sjtu--wanhunfan-cyber-company
@@ -2081,10 +1916,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: leoyeai--teammate-skill
@@ -2127,8 +1958,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 研究价值高
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖公开资料、代码记录，风险侧重公开资料型、私密聊天型，安装难度高。
 - id: vogtsw--boss-skills
@@ -2170,9 +1999,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 老板.skill
   compare_note: 核心对象是老板 / 管理者，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度高。
@@ -2217,9 +2043,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 老板.skill
   compare_note: 核心对象是老板 / 管理者，主要依赖工作文档、聊天记录，风险侧重私密聊天型、纪念型，安装难度高。
@@ -2262,10 +2085,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 老板.skill
   compare_note: 核心对象是老板 / 管理者，主要依赖工作文档、公开资料，风险侧重私密聊天型，安装难度中。
@@ -2309,9 +2128,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 老板.skill
   compare_note: 核心对象是老板 / 管理者，主要依赖工作文档、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度高。
@@ -2354,10 +2170,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 老板.skill
   compare_note: 核心对象是老板 / 管理者，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度中。
@@ -2400,10 +2212,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 老板.skill
   compare_note: 核心对象是老板 / 管理者，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度中。
@@ -2447,11 +2255,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: zgjq--anti-colleague-skill
@@ -2491,9 +2294,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖公开资料、工作文档，风险侧重私密聊天型，安装难度中。
 - id: orzjh--anti-distillation-skill
@@ -2536,10 +2336,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、代码记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: trailblazer-aha--vengeful-ghost-skill
@@ -2579,10 +2375,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、公开资料，风险侧重私密聊天型，安装难度中。
 - id: zhangeven686-dot--dark-forest-skills
@@ -2620,10 +2412,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖工作文档，风险侧重私密聊天型，安装难度中。
 - id: adelezhu--teacher-skill
@@ -2665,9 +2453,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖聊天记录、工作文档，风险侧重私密聊天型，安装难度高。
@@ -2712,10 +2497,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、工作文档，风险侧重私密聊天型、纪念型，安装难度高。
@@ -2758,10 +2539,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度中。
@@ -2804,10 +2581,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖工作文档、公开资料，风险侧重私密聊天型，安装难度中。
@@ -2849,9 +2622,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖工作文档、公开资料，风险侧重私密聊天型，安装难度高。
@@ -2895,11 +2665,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖公开资料、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -2942,10 +2707,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是师兄.skill，主要依赖公开资料、聊天记录，风险侧重私密聊天型，安装难度中。
 - id: atoz03--labmate-skill
@@ -2987,11 +2748,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、聊天记录，风险侧重私密聊天型，安装难度中。
 - id: veniveci--maintainer-skill
@@ -3032,9 +2788,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖代码记录、工作文档，风险侧重私密聊天型，安装难度中。
 - id: veniveci--client-skill
@@ -3076,10 +2829,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、社交媒体，风险侧重私密聊天型，安装难度中。
 - id: hxhxjxudjsn--client.skill
@@ -3122,11 +2871,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: liyupi--yupi-skill
@@ -3166,9 +2910,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、聊天记录，风险侧重私密聊天型，安装难度中。
 - id: wdl339--xinzhiyuan.skill
@@ -3208,10 +2949,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: yaofeino1--tech-distiller
@@ -3253,10 +2990,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖工作文档、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: azurboy--professor_skill
@@ -3297,10 +3030,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖工作文档、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -3344,9 +3073,6 @@ skills:
     completeness: 5
     maintenance: 4
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖公开资料、代码记录，风险侧重公开资料型、私密聊天型，安装难度中。
@@ -3389,10 +3115,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是教授.skill（答辩版），主要依赖公开资料、聊天记录，风险侧重私密聊天型，安装难度中。
 - id: zhrq-vis--cyberhr
@@ -3435,10 +3157,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: schlaflied--hr-skill
@@ -3479,9 +3197,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: schlaflied--roast-cold-email-skill
@@ -3521,9 +3236,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是职场角色 / 工作关系，主要依赖工作文档、公开资料，风险侧重私密聊天型，安装难度中。
 - id: alchaincyf--nuwa-skill
@@ -3564,10 +3276,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: jinchenma94--bazi-skill
@@ -3609,10 +3317,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖结构化输入、公开资料，风险侧重公开资料型、纪念型，安装难度中。
 - id: kkunkuner--openclaw-retail-trader
@@ -3652,10 +3356,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
 - id: will2025btc--buffett-perspective
@@ -3693,9 +3393,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--steve-jobs-skill
@@ -3736,10 +3433,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--elon-musk-skill
@@ -3780,10 +3473,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: 123pyleo--hu-chen-feng-skill
@@ -3821,9 +3510,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体，风险侧重公开资料型，安装难度中。
 - id: janlaywss--hu-chenfeng-skill
@@ -3866,11 +3552,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖公开资料、社交媒体，风险侧重公开资料型、纪念型，安装难度中。
 - id: ricardo-vv--changshu-anuo
@@ -3908,10 +3589,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: byterax--guodegang-skills
@@ -3952,11 +3629,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: rottenpen--fengge-wangmingtianya-perspective
@@ -3997,10 +3669,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、社交媒体，风险侧重公开资料型、高情绪依赖型，安装难度中。
 - id: walshyu--fengge-skill
@@ -4040,9 +3708,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--munger-skill
@@ -4083,10 +3748,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--feynman-skill
@@ -4127,10 +3788,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--naval-skill
@@ -4171,10 +3828,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: xr843--master-skill
@@ -4214,9 +3867,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是佛教大师.skills，主要依赖公开资料，风险侧重公开资料型，安装难度高。
 - id: dull-bird--diamond-sutra-skill
@@ -4255,9 +3905,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是金刚经.skill，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: liangjfblue--huaxia-wisdom
@@ -4295,9 +3942,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: wwwaapplleecu-source--mao-skill
@@ -4339,9 +3983,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度高。
 - id: leezythu--maoxuan-skill
@@ -4379,9 +4020,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: baojiachen0214--karlmarx-skill
@@ -4419,9 +4057,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: lijiayudeng--mises-perspective
@@ -4459,9 +4094,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体，风险侧重公开资料型，安装难度中。
 - id: jikunr--zizek-skill
@@ -4504,10 +4136,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、公开资料，风险侧重公开资料型、纪念型，安装难度中。
 - id: hughyau--qiushi-skill
@@ -4545,9 +4173,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖工作文档，风险侧重私密聊天型，安装难度中。
 - id: samadhifire--xinqingnian-skill
@@ -4589,11 +4214,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: casterkay--gurutalk
@@ -4635,10 +4255,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、工作文档，风险侧重私密聊天型，安装难度中。
 - id: alchaincyf--trump-skill
@@ -4679,10 +4295,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--zhang-yiming-skill
@@ -4723,10 +4335,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: a18515373115-droid--ai-allen-zhang
@@ -4768,10 +4376,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖公开资料、工作文档，风险侧重私密聊天型、纪念型，安装难度中。
@@ -4809,10 +4413,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是persona-cloner.skill，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: opendemon--anyone-to-skill
@@ -4853,9 +4453,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、多模态遗物，风险侧重公开资料型，安装难度高。
 - id: larashero3-dotcom--soul.skill
@@ -4897,10 +4494,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、聊天记录，风险侧重私密聊天型，安装难度中。
 - id: enterprise517ljt--digital-personas
@@ -4943,11 +4536,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
 - id: clawcap--mentor
@@ -4990,10 +4578,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 导师.skill
   - 偶像陪伴
@@ -5039,11 +4623,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖公开资料、社交媒体，风险侧重公开资料型、纪念型，安装难度中。
 - id: ayanamiii4ever--cc-skill
@@ -5083,10 +4662,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -5129,10 +4704,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型、高情绪依赖型，安装难度中。
 - id: jiemojiemo--up-skill
@@ -5175,10 +4746,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、多模态遗物，风险侧重纪念型、高情绪依赖型，安装难度高。
 - id: yanghaoraneve--star-skill
@@ -5221,11 +4788,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
@@ -5268,10 +4830,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
@@ -5314,10 +4872,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
@@ -5361,10 +4915,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度高。
@@ -5409,10 +4959,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖公开资料、社交媒体，风险侧重公开资料型、纪念型，安装难度高。
@@ -5455,10 +5001,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、多模态遗物，风险侧重纪念型、高情绪依赖型，安装难度中。
 - id: summer907--possession-skill
@@ -5501,10 +5043,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: mapleoao--xiao-zhu-nuonuo-skill
@@ -5544,10 +5082,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体、多模态遗物，风险侧重高情绪依赖型，安装难度中。
@@ -5591,11 +5125,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、公开资料，风险侧重公开资料型、纪念型，安装难度中。
 - id: alchaincyf--taleb-skill
@@ -5636,10 +5165,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--zhangxuefeng-skill
@@ -5680,10 +5205,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--x-mentor-skill
@@ -5722,10 +5243,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group:
   - 导师.skill
   compare_note: 核心对象是导师 / 学术指导，主要依赖社交媒体，风险侧重公开资料型，安装难度中。
@@ -5765,10 +5282,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 偶像陪伴
   compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖社交媒体，风险侧重公开资料型、高情绪依赖型，安装难度中。
@@ -5811,9 +5324,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖工作文档、代码记录，风险侧重私密聊天型，安装难度中。
 - id: alchaincyf--paul-graham-skill
@@ -5854,11 +5364,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--karpathy-skill
@@ -5899,10 +5404,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: smallnest--rob-pike-skill
@@ -5942,10 +5443,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--ilya-sutskever-skill
@@ -5986,10 +5483,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: alchaincyf--mrbeast-skill
@@ -6032,11 +5525,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、公开资料，风险侧重公开资料型、纪念型，安装难度中。
 - id: fanzr-arch--numerologist_skills
@@ -6079,10 +5567,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖结构化输入、公开资料，风险侧重公开资料型、纪念型，安装难度中。
 - id: alchaincyf--sun-yuchen-perspective
@@ -6122,9 +5606,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
 - id: enzyme2013--polanyi-skill
@@ -6164,9 +5645,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: bayson-create--gotama-buddha-perspective
@@ -6207,9 +5685,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、代码记录，风险侧重公开资料型、私密聊天型，安装难度中。
 - id: anneheartrecord--duanyongping-perspective
@@ -6247,9 +5722,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: derrickgong87--duan-yongping-skill
@@ -6291,10 +5763,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: nzs131839-debug--zhaochangpeng-skill
@@ -6335,10 +5803,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: bbottm--cz-skill
@@ -6377,9 +5841,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 5
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料，风险侧重公开资料型，安装难度中。
 - id: notdog1998--yourself-skill
@@ -6422,11 +5883,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -6470,11 +5926,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖工作文档、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -6517,10 +5968,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度高。
@@ -6561,9 +6008,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 方法论强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖聊天记录、工作文档，风险侧重私密聊天型，安装难度中。
@@ -6606,9 +6050,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 研究价值高
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖聊天记录、社交媒体，风险侧重私密聊天型，安装难度中。
@@ -6653,9 +6094,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖公开资料、聊天记录，风险侧重私密聊天型、纪念型，安装难度高。
@@ -6698,11 +6136,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、多模态遗物，风险侧重高情绪依赖型，安装难度中。
 - id: yingyinyin666--foreverme-skill
@@ -6745,11 +6178,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖工作文档、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
@@ -6792,9 +6220,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度高。
@@ -6836,10 +6261,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 2
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖工作文档、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: xiaoshiyilangzhao1996-droid--irreplaceable-you
@@ -6881,10 +6302,6 @@ skills:
     completeness: 4
     maintenance: 5
     privacy_friendliness: 3
-  labels:
-  - 新手推荐
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲密关系对象，主要依赖工作文档、公开资料，风险侧重私密聊天型、高情绪依赖型，安装难度中。
 - id: ylsssq926--relic.skill
@@ -6927,9 +6344,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖多模态遗物、聊天记录，风险侧重私密聊天型、高情绪依赖型，安装难度高。
 - id: zengury--soul-forge
@@ -6971,10 +6385,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录，风险侧重私密聊天型、纪念型，安装难度中。
 - id: yangdongchen66-boop--reunion-skill
@@ -7018,10 +6428,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度高。
 - id: joonaskahnwald--re-live
@@ -7063,9 +6469,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖多模态遗物，风险侧重纪念型、高情绪依赖型，安装难度中。
 - id: terry-cyx--memorial-skill
@@ -7109,9 +6512,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖多模态遗物、聊天记录，风险侧重私密聊天型、纪念型，安装难度高。
 - id: zfreeya--memorial-skill-builder
@@ -7154,9 +6554,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、纪念型，安装难度高。
 - id: isecream9--parents-skill
@@ -7199,9 +6596,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group:
   - 父母.skill
   compare_note: 核心对象是父母 / 家庭记忆，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度中。
@@ -7245,9 +6639,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 情绪价值强
   compare_group:
   - 父母.skill
   compare_note: 核心对象是父母 / 家庭记忆，主要依赖多模态遗物、聊天记录，风险侧重私密聊天型、纪念型，安装难度中。
@@ -7292,10 +6683,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、纪念型，安装难度中。
 - id: chenxing9200--guren
@@ -7339,9 +6726,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖多模态遗物、聊天记录，风险侧重私密聊天型、纪念型，安装难度高。
 - id: zhrq-vis--cyber-ash-box-digital-memorial-hall-skill
@@ -7385,9 +6769,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度高。
 - id: agenmod--immortal-skill
@@ -7429,10 +6810,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是永生.skill，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度中。
 - id: yikuaibanzi--forge-skill
@@ -7476,9 +6853,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、工作文档，风险侧重私密聊天型、纪念型，安装难度高。
 - id: southeast-syd--memorial-skill
@@ -7522,10 +6896,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、纪念型，安装难度中。
 - id: quqicolour--echomemory
@@ -7568,10 +6938,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、多模态遗物，风险侧重纪念型、高情绪依赖型，安装难度中。
 - id: zhrq-vis--cyberfuneral-
@@ -7615,10 +6981,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group: []
   compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度中。
 - id: yuuiwa1551--mama.skill
@@ -7660,10 +7022,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 父母.skill
   compare_note: 核心对象是父母 / 家庭记忆，主要依赖多模态遗物、公开资料，风险侧重公开资料型、纪念型，安装难度中。
@@ -7688,7 +7046,7 @@ skills:
   skill_md_location: root
   install_difficulty: 中
   beginner_friendly: true
-  last_pushed_at: '2026-04-09'
+  last_pushed_at: '2026-04-10'
   active_bucket: 30天内活跃
   audit:
     readme_checked: true
@@ -7704,9 +7062,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 新手推荐
-  - 研究价值高
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖多模态遗物，风险侧重公开资料型，安装难度中。
@@ -7749,9 +7104,6 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 4
-  labels:
-  - 研究价值高
-  - 方法论强
   compare_group: []
   compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型，安装难度高。
 - id: lipg-waver--self-skill
@@ -7794,10 +7146,973 @@ skills:
     completeness: 5
     maintenance: 5
     privacy_friendliness: 1
-  labels:
-  - 新手推荐
-  - 研究价值高
-  - 情绪价值强
   compare_group:
   - 自己.skill
   compare_note: 核心对象是自己 / 数字分身，主要依赖聊天记录、社交媒体，风险侧重私密聊天型、高情绪依赖型，安装难度中。
+- id: shaominghaoo--digital-twin-skill
+  name: ????.skill
+  repo: shaominghaoo/digital-twin-skill
+  url: https://github.com/shaominghaoo/digital-twin-skill
+  category: ???
+  summary: ?????????????????????????????
+  focus_object: ????.skill
+  scene_tags:
+  - 自我蒸馏
+  - 角色扮演
+  source_types:
+  - 公开资料
+  privacy_level: 低
+  risk_tags:
+  - 公开资料型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 中
+  beginner_friendly: false
+  last_pushed_at: '2026-03-21'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - SKILL.md
+    - references/soul-template.md
+    evidence_summary: 仓库文本主要指向公开资料驱动的 skill，仓库未提供 README，改以 `SKILL.md` 作为主说明文档，仓库根目录包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为自我蒸馏、角色扮演相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 3
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 5
+  compare_group: []
+  compare_note: 核心对象是????.skill，主要依赖公开资料，风险侧重公开资料型，安装难度中。
+- id: xhanzo-coder--creator-digital-twin-skill
+  name: ???????.skill
+  repo: xhanzo-coder/creator-digital-twin-skill
+  url: https://github.com/xhanzo-coder/creator-digital-twin-skill
+  category: ???
+  summary: ???????????????????????????
+  focus_object: 偶像 / 创作者 / 虚拟主播
+  scene_tags:
+  - 方法论思考
+  - 自我蒸馏
+  - 偶像陪伴
+  source_types:
+  - 公开资料
+  - 社交媒体
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 高
+  beginner_friendly: false
+  last_pushed_at: '2026-03-13'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - requirements.txt
+    evidence_summary: README 明确提到以公众号文章为主要来源，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，因此判定为方法论思考、自我蒸馏相关项目，安装难度高。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group:
+  - 偶像陪伴
+  compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖公开资料、社交媒体，风险侧重公开资料型、高情绪依赖型，安装难度高。
+- id: 863401402--she-love-me
+  name: ????.skill
+  repo: 863401402/she-love-me
+  url: https://github.com/863401402/she-love-me
+  category: ???
+  summary: ????/QQ ???????????????????????
+  focus_object: 朋友 / 群友 / 同伴
+  scene_tags:
+  - 恋爱沟通
+  - 亲友陪伴
+  - 导师学术
+  source_types:
+  - 聊天记录
+  - 多模态遗物
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 私密聊天型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-10'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - .agents/skills/she-love-me/SKILL.md
+    - requirements.txt
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，因此判定为恋爱沟通、亲友陪伴相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、高情绪依赖型，安装难度中。
+- id: xueyuanhuang--claude-wechat-profile-skill
+  name: ????.skill
+  repo: xueyuanhuang/claude-wechat-profile-skill
+  url: https://github.com/xueyuanhuang/claude-wechat-profile-skill
+  category: ???
+  summary: ?????????????????????????????
+  focus_object: 亲人 / 逝者 / 纪念对象
+  scene_tags:
+  - 亲人纪念
+  - 求职职场
+  - 亲友陪伴
+  source_types:
+  - 聊天记录
+  - 多模态遗物
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 私密聊天型
+  - 纪念型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-01'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - skill.md
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为亲人纪念、求职职场相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度中。
+- id: whtis--wechat-persona
+  name: ??????.skill
+  repo: whtis/wechat-persona
+  url: https://github.com/whtis/wechat-persona
+  category: ???
+  summary: ???????????? persona?????????????
+  focus_object: 亲人 / 逝者 / 纪念对象
+  scene_tags:
+  - 亲人纪念
+  - 导师学术
+  - 求职职场
+  source_types:
+  - 聊天记录
+  - 多模态遗物
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 私密聊天型
+  - 纪念型
+  - 高情绪依赖型
+  skill_md_verified: false
+  skill_md_location: none
+  install_difficulty: 中
+  beginner_friendly: false
+  last_pushed_at: '2026-04-01'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - prompts/intake.md
+    - requirements.txt
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库未找到 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，因此判定为亲人纪念、导师学术相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度中。
+- id: jesseovo--miss-skill
+  name: ??.skill?????
+  repo: Jesseovo/Miss-Skill
+  url: https://github.com/Jesseovo/Miss-Skill
+  category: ???
+  summary: ?????????????????????????????
+  focus_object: 亲人 / 逝者 / 纪念对象
+  scene_tags:
+  - 亲人纪念
+  - 恋爱沟通
+  - 失恋
+  source_types:
+  - 社交媒体
+  - 多模态遗物
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 纪念型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-04'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/qq_parser.py
+    evidence_summary: README 明确提到结合照片与语音等多模态材料，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为亲人纪念、恋爱沟通相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖社交媒体、多模态遗物，风险侧重纪念型、高情绪依赖型，安装难度中。
+- id: wemamawe--ai-persona-skills
+  name: ??????.skill
+  repo: wemamawe/ai-persona-skills
+  url: https://github.com/wemamawe/ai-persona-skills
+  category: ???
+  summary: ???????????? persona skill ??????????
+  focus_object: ??????.skill
+  scene_tags:
+  - 角色扮演
+  - 方法论思考
+  - 自我蒸馏
+  source_types:
+  - 公开资料
+  - 代码记录
+  - 混合来源
+  privacy_level: 高
+  risk_tags:
+  - 公开资料型
+  - 私密聊天型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-09'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - bezos/SKILL.md
+    evidence_summary: README 明确提到以公开资料为输入，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为角色扮演、方法论思考相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 3
+  compare_group: []
+  compare_note: 核心对象是??????.skill，主要依赖公开资料、代码记录，风险侧重公开资料型、私密聊天型，安装难度中。
+- id: leo0331--prosemasters-skill
+  name: ??????.skill
+  repo: LEO0331/prosemasters-skill
+  url: https://github.com/LEO0331/prosemasters-skill
+  category: ???
+  summary: ?????????????????? persona ??????
+  focus_object: 亲密关系对象
+  scene_tags:
+  - 恋爱沟通
+  - 求职职场
+  - 自我蒸馏
+  source_types:
+  - 公开资料
+  privacy_level: 低
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 高
+  beginner_friendly: false
+  last_pushed_at: '2026-04-10'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/skill_writer.py
+    evidence_summary: README 明确提到以公开资料为输入，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为恋爱沟通、求职职场相关项目，安装难度高。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 5
+  compare_group: []
+  compare_note: 核心对象是亲密关系对象，主要依赖公开资料，风险侧重公开资料型、高情绪依赖型，安装难度高。
+- id: eamanc-lab--openclaw-persona-forge
+  name: ?????.skill
+  repo: eamanc-lab/openclaw-persona-forge
+  url: https://github.com/eamanc-lab/openclaw-persona-forge
+  category: ???
+  summary: '? persona forge / soul forge / user profiler ?? skill ??????????'
+  focus_object: 偶像 / 创作者 / 虚拟主播
+  scene_tags:
+  - 角色扮演
+  - 偶像陪伴
+  - 商业投资
+  source_types:
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-03-24'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - skills/openclaw-soul-forge/SKILL.md
+    evidence_summary: README 没有完全写清单一来源，仓库更像混合资料驱动的 skill，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为角色扮演、偶像陪伴相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group:
+  - 偶像陪伴
+  compare_note: 核心对象是偶像 / 创作者 / 虚拟主播，主要依赖混合来源，风险侧重高情绪依赖型，安装难度中。
+- id: zh3036--luke-agent
+  name: Luke??.skill
+  repo: zh3036/luke-agent
+  url: https://github.com/zh3036/luke-agent
+  category: ???
+  summary: ?????????????????? boss builder ? agent skill?
+  focus_object: Luke??.skill
+  scene_tags:
+  - 自我蒸馏
+  - 求职职场
+  - 商业投资
+  source_types:
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-03-20'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - luke-agent-from-skill.md
+    - prompts/v0_baseline.md
+    evidence_summary: README 没有完全写清单一来源，仓库更像混合资料驱动的 skill，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为自我蒸馏、求职职场相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是Luke??.skill，主要依赖混合来源，风险侧重公开资料型，安装难度中。
+- id: yukichiyoda--wetrace-skill
+  name: ??????.skill?????
+  repo: YukiChiyoda/wetrace-skill
+  url: https://github.com/YukiChiyoda/wetrace-skill
+  category: ???
+  summary: ?????????????????????????????
+  focus_object: 朋友 / 群友 / 同伴
+  scene_tags:
+  - 恋爱沟通
+  - 方法论思考
+  - 亲友陪伴
+  source_types:
+  - 聊天记录
+  - 代码记录
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 私密聊天型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-02-14'
+  active_bucket: 90天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为恋爱沟通、方法论思考相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 4
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、代码记录，风险侧重私密聊天型、高情绪依赖型，安装难度中。
+- id: aituli--father-in-law-skill
+  name: ???.skill
+  repo: aituli/father-in-law-skill
+  url: https://github.com/aituli/father-in-law-skill
+  category: ???
+  summary: ????????????????????????? skill?
+  focus_object: 朋友 / 群友 / 同伴
+  scene_tags:
+  - 恋爱沟通
+  - 亲友陪伴
+  - 角色扮演
+  source_types:
+  - 聊天记录
+  - 工作文档
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 私密聊天型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 高
+  beginner_friendly: false
+  last_pushed_at: '2026-04-10'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/skill_writer.py
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为恋爱沟通、亲友陪伴相关项目，安装难度高。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖聊天记录、工作文档，风险侧重私密聊天型、高情绪依赖型，安装难度高。
+- id: huaqiang-huang--ziji.skills
+  name: ??.skill?????
+  repo: huaqiang-huang/ziji.skills
+  url: https://github.com/huaqiang-huang/ziji.skills
+  category: ???
+  summary: ??????????????????????????????
+  focus_object: ??.skill?????
+  scene_tags:
+  - 自我蒸馏
+  - 角色扮演
+  - 求职职场
+  source_types:
+  - 工作文档
+  - 聊天记录
+  - 混合来源
+  privacy_level: 高
+  risk_tags:
+  - 私密聊天型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 高
+  beginner_friendly: false
+  last_pushed_at: '2026-04-05'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/smoke_test.py
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为自我蒸馏、角色扮演相关项目，安装难度高。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 2
+  compare_group: []
+  compare_note: 核心对象是??.skill?????，主要依赖工作文档、聊天记录，风险侧重私密聊天型，安装难度高。
+- id: walter201230--stormzhang-skills
+  name: stormzhang.skill
+  repo: walter201230/stormzhang-skills
+  url: https://github.com/walter201230/stormzhang-skills
+  category: ???
+  summary: ?? stormzhang ???????????????????? skill?
+  focus_object: 朋友 / 群友 / 同伴
+  scene_tags:
+  - 方法论思考
+  - 亲友陪伴
+  - 商业投资
+  source_types:
+  - 社交媒体
+  - 公开资料
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-07'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - stormzhang-writer/SKILL.md
+    evidence_summary: README 明确提到以公众号文章为主要来源，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为方法论思考、亲友陪伴相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖社交媒体、公开资料，风险侧重公开资料型，安装难度中。
+- id: canding3021--teacher-skill
+  name: ??.skill?????
+  repo: Canding3021/teacher-skill
+  url: https://github.com/Canding3021/teacher-skill
+  category: ???
+  summary: ???/?????????????????????? skill?
+  focus_object: ??.skill?????
+  scene_tags:
+  - 导师学术
+  - 方法论思考
+  - 恋爱沟通
+  source_types:
+  - 公开资料
+  - 代码记录
+  - 混合来源
+  privacy_level: 高
+  risk_tags:
+  - 公开资料型
+  - 私密聊天型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 高
+  beginner_friendly: false
+  last_pushed_at: '2026-04-10'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/qq_parser.py
+    evidence_summary: README 明确提到以论文或公开文献为输入，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为导师学术、方法论思考相关项目，安装难度高。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 3
+  compare_group: []
+  compare_note: 核心对象是??.skill?????，主要依赖公开资料、代码记录，风险侧重公开资料型、私密聊天型，安装难度高。
+- id: hchen1218--merchant-skill-generator
+  name: ????.skill
+  repo: Hchen1218/Merchant-skill-generator
+  url: https://github.com/Hchen1218/Merchant-skill-generator
+  category: ???
+  summary: ???????????????? persona ????? skill?
+  focus_object: 职场角色 / 工作关系
+  scene_tags:
+  - 求职职场
+  - 自我蒸馏
+  - 角色扮演
+  source_types:
+  - 社交媒体
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 高
+  beginner_friendly: false
+  last_pushed_at: '2026-04-09'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - src/generator.ts
+    - examples/specs/haze-bar.json
+    evidence_summary: README 与仓库结构共同显示该项目围绕特定资料源进行蒸馏，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `src/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为求职职场、自我蒸馏相关项目，安装难度高。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 2
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是职场角色 / 工作关系，主要依赖社交媒体，风险侧重公开资料型，安装难度高。
+- id: cyber-immortal--cyber-figures
+  name: ?????.skill
+  repo: cyber-immortal/cyber-figures
+  url: https://github.com/cyber-immortal/cyber-figures
+  category: ???
+  summary: ???????????????????????????????
+  focus_object: 公开人物 / 方法论视角
+  scene_tags:
+  - 方法论思考
+  - 恋爱沟通
+  - 商业投资
+  source_types:
+  - 社交媒体
+  - 公开资料
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-10'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - aoye/SKILL.md
+    evidence_summary: README 明确提到从社交媒体内容中提炼，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为方法论思考、恋爱沟通相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是公开人物 / 方法论视角，主要依赖社交媒体、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
+- id: dadwadw233--vibeportrait
+  name: ????.skill
+  repo: dadwadw233/VibePortrait
+  url: https://github.com/dadwadw233/VibePortrait
+  category: ???
+  summary: ????????????? persona skill ?????????
+  focus_object: ????.skill
+  scene_tags:
+  - 自我蒸馏
+  - 求职职场
+  - 角色扮演
+  source_types:
+  - 代码记录
+  - 社交媒体
+  - 混合来源
+  privacy_level: 高
+  risk_tags:
+  - 私密聊天型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-08'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - skills/vibe-portrait/SKILL.md
+    evidence_summary: README 与仓库结构共同显示该项目围绕特定资料源进行蒸馏，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为自我蒸馏、求职职场相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 2
+  compare_group: []
+  compare_note: 核心对象是????.skill，主要依赖代码记录、社交媒体，风险侧重私密聊天型，安装难度中。
+- id: kitephp--soul-agent
+  name: ????.skill
+  repo: kitephp/soul-agent
+  url: https://github.com/kitephp/soul-agent
+  category: ???
+  summary: '? life log?????????????????? soul agent?'
+  focus_object: 朋友 / 群友 / 同伴
+  scene_tags:
+  - 亲友陪伴
+  - 求职职场
+  - 恋爱沟通
+  source_types:
+  - 多模态遗物
+  - 公开资料
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-03-12'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - skills/soul-agent/SKILL.md
+    evidence_summary: README 明确提到以论文或公开文献为输入，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为亲友陪伴、求职职场相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是朋友 / 群友 / 同伴，主要依赖多模态遗物、公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
+- id: belivar--sinian-skill
+  name: ??.skill
+  repo: belivar/sinian-skill
+  url: https://github.com/belivar/sinian-skill
+  category: ???
+  summary: ???????????????????????? skill?
+  focus_object: 亲人 / 逝者 / 纪念对象
+  scene_tags:
+  - 亲人纪念
+  - 失恋
+  - 亲友陪伴
+  source_types:
+  - 多模态遗物
+  privacy_level: 极高
+  risk_tags:
+  - 纪念型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-04'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    evidence_summary: README 与仓库结构共同显示该项目围绕特定资料源进行蒸馏，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，实现信号主要集中在说明文档与少量核心文件，因此判定为亲人纪念、失恋相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 4
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖多模态遗物，风险侧重纪念型、高情绪依赖型，安装难度中。
+- id: yhz-2134--create-loved-one
+  name: ??.skill?????
+  repo: yhz-2134/create-loved-one
+  url: https://github.com/yhz-2134/create-loved-one
+  category: ???
+  summary: ???????????????????????? persona skill?
+  focus_object: 亲人 / 逝者 / 纪念对象
+  scene_tags:
+  - 恋爱沟通
+  - 自我蒸馏
+  - 亲人纪念
+  source_types:
+  - 聊天记录
+  - 多模态遗物
+  - 混合来源
+  privacy_level: 极高
+  risk_tags:
+  - 私密聊天型
+  - 纪念型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-08'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/qq_parser.py
+    evidence_summary: README 明确提到使用聊天记录，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为恋爱沟通、自我蒸馏相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 1
+  compare_group: []
+  compare_note: 核心对象是亲人 / 逝者 / 纪念对象，主要依赖聊天记录、多模态遗物，风险侧重私密聊天型、纪念型，安装难度中。
+- id: grhliu--naval-mind-skill
+  name: Naval.skill
+  repo: grhliu/naval-mind-skill
+  url: https://github.com/grhliu/naval-mind-skill
+  category: ???
+  summary: ?? Naval Ravikant ???????????????????
+  focus_object: Naval.skill
+  scene_tags:
+  - 自我蒸馏
+  - 商业投资
+  - 恋爱沟通
+  source_types:
+  - 公开资料
+  privacy_level: 低
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-03-20'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - adk/SKILL.md
+    - examples/decision-making.md
+    evidence_summary: 仓库文本主要指向公开资料驱动的 skill，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，本次审阅还查看了 `examples/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为自我蒸馏、商业投资相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 5
+  compare_group: []
+  compare_note: 核心对象是Naval.skill，主要依赖公开资料，风险侧重公开资料型、高情绪依赖型，安装难度中。
+- id: amon339--distill-blog-skill
+  name: ?????.skill
+  repo: amon339/distill-blog-skill
+  url: https://github.com/amon339/distill-blog-skill
+  category: ???
+  summary: ??????????? persona / brain / voice ??? skill?
+  focus_object: 公开人物 / 方法论视角
+  scene_tags:
+  - 商业投资
+  - 恋爱沟通
+  - 自我蒸馏
+  source_types:
+  - 公开资料
+  - 社交媒体
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: root
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-06'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - SKILL.md
+    - prompts/intake.md
+    - tools/skill_writer.py
+    evidence_summary: README 明确提到以公众号文章为主要来源，主说明文档为 `README.md`，仓库根目录包含 `SKILL.md`，本次审阅还查看了 `prompts/` 下代表文件，实现信号主要集中在说明文档与少量核心文件，因此判定为商业投资、恋爱沟通相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型、高情绪依赖型，安装难度中。
+- id: amon339--linshaonan-digital-twin
+  name: ???.skill
+  repo: amon339/linshaonan-digital-twin
+  url: https://github.com/amon339/linshaonan-digital-twin
+  category: ???
+  summary: ???????????????? persona?brain ? source index ??????
+  focus_object: 公开人物 / 方法论视角
+  scene_tags:
+  - 方法论思考
+  - 商业投资
+  - 恋爱沟通
+  source_types:
+  - 公开资料
+  - 社交媒体
+  - 混合来源
+  privacy_level: 中
+  risk_tags:
+  - 公开资料型
+  - 高情绪依赖型
+  skill_md_verified: true
+  skill_md_location: subdir
+  install_difficulty: 中
+  beginner_friendly: true
+  last_pushed_at: '2026-04-06'
+  active_bucket: 30天内活跃
+  audit:
+    readme_checked: true
+    inspected_files:
+    - README.md
+    - skill/SKILL.md
+    - skill/meta.json
+    - distill-tool/requirements.txt
+    evidence_summary: README 明确提到以公众号文章为主要来源，主说明文档为 `README.md`，仓库子目录中包含 `SKILL.md`，因此判定为方法论思考、商业投资相关项目，安装难度中。
+    checked_at: '2026-04-10'
+    review_method: manual_repo_audit
+  scores:
+    usability: 4
+    completeness: 5
+    maintenance: 5
+    privacy_friendliness: 4
+  compare_group: []
+  compare_note: 核心对象是公开人物 / 方法论视角，主要依赖公开资料、社交媒体，风险侧重公开资料型、高情绪依赖型，安装难度中。

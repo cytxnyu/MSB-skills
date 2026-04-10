@@ -29,7 +29,6 @@ REQUIRED_FIELDS = [
     "last_pushed_at",
     "active_bucket",
     "scores",
-    "labels",
     "compare_group",
     "compare_note",
     "audit",
@@ -94,8 +93,6 @@ def main() -> int:
             fail(f"Invalid install_difficulty for {skill['repo']}")
         if skill["active_bucket"] not in vocab["active_buckets"]:
             fail(f"Invalid active_bucket for {skill['repo']}")
-        if any(item not in vocab["labels"] for item in skill["labels"]):
-            fail(f"Invalid label for {skill['repo']}")
         if len(skill["audit"]["inspected_files"]) < 2:
             fail(f"Inspected files not enough for {skill['repo']}")
         if not skill["audit"]["readme_checked"]:
@@ -113,9 +110,6 @@ def main() -> int:
             value = skill["scores"].get(metric)
             if not isinstance(value, int) or not 1 <= value <= 5:
                 fail(f"Invalid score {metric} for {skill['repo']}")
-        if "新手推荐" in skill["labels"]:
-            if skill["install_difficulty"] == "高" or not skill["beginner_friendly"]:
-                fail(f"Invalid 新手推荐 for {skill['repo']}")
         for group in skill["compare_group"]:
             if group not in COMPARE_GROUPS:
                 fail(f"Invalid compare_group for {skill['repo']}: {group}")
