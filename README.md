@@ -1,6 +1,6 @@
 # 👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑
 
-> ⚔️ 万魂幡现已收录 **172** 个 skill(魂)
+> ⚔️ 万魂幡现已收录 **193** 个 skill(魂)
 
 > 赛博万魂幡导航 Myriad Soul Banner(MSB万魂幡)
  
@@ -76,6 +76,11 @@
 | larp.skill | 把角色设定、互动节奏和临场代入感一起蒸出来，适合那种你想继续聊下去的虚构关系。 | [zzzzzzza/larp-skill](https://github.com/zzzzzzza/larp-skill) |
 | 后代.skill | 从两个人的聊天、语气和关系线索里，虚构出一个同龄“后代”人格，偏创作向、设定向的关系蒸馏实验。 | [Zhou-xingyu-ts/relationship-descendant-public](https://github.com/Zhou-xingyu-ts/relationship-descendant-public) |
 | 师父.skill | 把师父的带徒思路、说话方式和那种“嘴上嫌你菜、关键时刻又回来捞你”的关系感一起留住。 | [Cz1ang/shifu-skill](https://github.com/Cz1ang/shifu-skill) |
+| 微信画像.skill | 不急着把 ta 直接复刻成聊天对象，先把微信全量聊天记录整理成人物档案，适合在蒸馏前先把这个人看清。 | [xueyuanhuang/claude-wechat-profile-skill](https://github.com/xueyuanhuang/claude-wechat-profile-skill) |
+| 微信联系人.skill | 从导出的微信记录里给联系人生成 Agent Skill，更像一条面向熟人关系的批量蒸馏流水线。 | [whtis/wechat-persona](https://github.com/whtis/wechat-persona) |
+| 朋友.skill（多模态版） | 不只看聊天，还把照片和社交媒体一起带上，适合把友情里的语气、记忆和人物感保留得更完整。 | [1544501967/friend-skill](https://github.com/1544501967/friend-skill) |
+| 恋爱分析.skill | 与其反复猜“她爱不爱我”，不如先让 skill 把微信聊天里的情绪波动、暧昧拐点和关系走势说人话。 | [863401402/she-love-me](https://github.com/863401402/she-love-me) |
+| Persona 蒸馏.skill | 更像一个从聊天导出构建角色资料包的通用壳，顺手支持本地网页聊天、表情包和语音接口。 | [M00NZ1/Persona-Distill-skill](https://github.com/M00NZ1/Persona-Distill-skill) |
 
 ### 职场类
 
@@ -190,6 +195,19 @@
 | 段永平.skill（价值投资版） | 同样聊长期主义，但更偏投资、企业经营和“买股票就是买公司”的朴素判断。 | [derrickgong87/duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) |
 | CZ.skill | 把极限博弈、风险判断和加密世界的生存直觉一股脑装进来，适合高波动问题的冷启动思考。 | [nzs131839-debug/zhaochangpeng-skill](https://github.com/nzs131839-debug/zhaochangpeng-skill) |
 | CZ.skill（决策复盘版） | 同样借 CZ 的高压决策风格，但更偏创始人、投资和人生选择里的极限复盘。 | [BboTTM/cz-skill](https://github.com/BboTTM/cz-skill) |
+| 资料画像.skill | 从 Raw Data 里先蒸 profile 再做 persona，适合把“人物是什么样”先整理成一个中间层。 | [ClarkYoung-xhs/profile-distill-skill](https://github.com/ClarkYoung-xhs/profile-distill-skill) |
+| 人格合成器.skill | 不蒸单一人物，而是把多种人格组件拼起来，适合做“我想要这种性格组合”的实验场。 | [Tomsawyerhu/Persona-Skill](https://github.com/Tomsawyerhu/Persona-Skill) |
+| 仓颉.skill | 不是让 AI 背语录，而是把写作风格蒸馏和认知植入做成可复用的元 skill。 | [Yeadon8888/cangjie-skill](https://github.com/Yeadon8888/cangjie-skill) |
+| 王阳明.skill | 把知行合一、事上磨炼和内在校准那套心学框架装进来，适合压住内耗和摇摆。 | [moyvch/wangyangming-skill](https://github.com/moyvch/wangyangming-skill) |
+| 付鹏.skill | 更像一个把周期、资产和风险讲明白的宏观脑外挂，适合在大问题前先校准判断。 | [mingm6117-eng/fupeng-skill](https://github.com/mingm6117-eng/fupeng-skill) |
+| 韩路.skill | 把汽车博主韩路的表达节奏和选车判断压进来，适合纠结装备、审美和性价比时借脑子。 | [657924613/hanlu-skill](https://github.com/657924613/hanlu-skill) |
+| 峰哥.skill（40G版） | 同样走现实主义路线，但更偏把大量语录、反差感和粗粝表达一起浓缩成赛博嘴替。 | [buke18/fengge-skill](https://github.com/buke18/fengge-skill) |
+| 八字人格.skill | 把八字命盘和 persona 玩法缝到一起，让玄学不只算命，还能生成一套可聊的人格框架。 | [cantian-ai/bazi-persona-skill](https://github.com/cantian-ai/bazi-persona-skill) |
+| MBTI 人格.skill | 一条 skill 直接切 16 种人格，不只改语气，还连决策倾向和对话手感一起切换。 | [ChangyuanYU/mbti-persona-skill](https://github.com/ChangyuanYU/mbti-persona-skill) |
+| 悟道真英雄.skill | 不蒸别人，直接把你自己的交易纪律、截图判断和群聊经验锻成一个持续进化的交易分身。 | [sherjy/wudao-hero-skill](https://github.com/sherjy/wudao-hero-skill) |
+| 卧龙凤雏.skill | 两个中文搞笑人格一起上班，适合在严肃任务之外临时借点杠精、嘴碎和荒诞感来换脑子。 | [wanikua/wolong-fengchu-skills](https://github.com/wanikua/wolong-fengchu-skills) |
+| 昔涟.skill | 从游戏资料和设定文本里蒸出高还原角色感，更偏强设定陪伴和角色扮演体验。 | [HeartEase1/cyrene.skill](https://github.com/HeartEase1/cyrene.skill) |
+| 新海诚导演.skill | 不是陪你闲聊的 persona，而是把新海诚式分镜、氛围和视觉叙事打包成可调用创作 skill。 | [Toni-xie/DirectorSkill](https://github.com/Toni-xie/DirectorSkill) |
 
 ### 纪念类
 
@@ -228,6 +246,9 @@
 | Digital Twin of Yourself | 从你的真实写作和文件里反推说话方式、判断逻辑和决策偏好，做成可复用的人格系统提示词。 | [whystrohm/digital-twin-of-yourself](https://github.com/whystrohm/digital-twin-of-yourself) |
 | Digital Person.skill | 把一个人的表达风格、记忆痕迹和互动习惯整理成可持续使用的数字人格备份。 | [justinjia0813/digital-person-skill](https://github.com/justinjia0813/digital-person-skill) |
 | 自己.skill（聊天记录版） | 从聊天记录里反向蒸出你自己的表达习惯、情绪纹理和做事手感，给未来留个可对话的自己。 | [lipG-waver/self-skill](https://github.com/lipG-waver/self-skill) |
+| 自己.skill（DeepSeek版） | 用 DeepSeek 接上自我蒸馏流程，适合先低门槛试试把自己做成一个能对话的分身。 | [To-Carpe-Diem/Deepseek-yourself-skill](https://github.com/To-Carpe-Diem/Deepseek-yourself-skill) |
+| 自己.skill（极简版） | 仓库几乎只放一份 `SKILL.md`，像一张极简自我分身卡，适合快速试水“先有个能用的我”。 | [liushengwen158-source/alinger-skill](https://github.com/liushengwen158-source/alinger-skill) |
+| 亲人.skill（清明版） | 把微信聊天、语音和照片一起整理成逝者人格，偏向“还能被想念的人继续开口说话”。 | [Jesseovo/Miss-Skill](https://github.com/Jesseovo/Miss-Skill) |
 
 
 ---
