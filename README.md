@@ -1,6 +1,6 @@
 # 👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑
 
-> ⚔️ 万魂幡现已收录 **222** 个 skill(魂)
+> ⚔️ 万魂幡现已收录 **232** 个 skill(魂)
 
 > 赛博万魂幡导航 Myriad Soul Banner(MSB万魂幡)
  
@@ -60,6 +60,8 @@
 | 妻子.skill | 从纪念日、生活习惯到家务和育儿偏好都一起蒸进去，更像婚后相处的日常操作系统。 | [aituli/wife-skill](https://github.com/aituli/wife-skill) |
 | 恋人.skill | 不走无限迎合路线，而是给恋人设定边界、记忆和性格生成逻辑，连浏览记录都能拿来补画像。 | [daaimengermengzhu/lover-skill](https://github.com/daaimengermengzhu/lover-skill) |
 | 乙女老公.skill | 把纸片人老公做成可日常对话的高甜 skill，支持原型开盲盒、甜度切换和小剧场模式。 | [Daim7/otome-husband-skill](https://github.com/Daim7/otome-husband-skill) |
+| Waifu.skill | 不是你穿越去二次元，而是把虚拟角色召到现实里陪你聊天，连世界观和角色设定都一起带过来。 | [miunasu/waifu-skill](https://github.com/miunasu/waifu-skill) |
+| 虚拟女友.skill（多模态版） | 不只会文字陪聊，还能发语音、自拍、音乐和视频，把好感度和记忆系统一起做进关系体验里。 | [nblzhbz888-rgb/virtual-girlfriend-skill](https://github.com/nblzhbz888-rgb/virtual-girlfriend-skill) |
 | 父母.skill | 趁记忆还热，把那句唠叨留下来；长大以后，最想重听的往往就是这些。 | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
 | 父母.skill（另一版） | 从聊天记录里把父母的说话习惯、关心方式和家常絮叨重新留住，偏向更直接的亲情陪伴。 | [y735832496/parents-skill](https://github.com/y735832496/parents-skill) |
 | 家人.skill（群像版） | 不是只蒸一个人，而是把整个家庭做成群像 skill：共享记忆、关系图和每位成员的独立人格一起留档。 | [qijia77/family.skill](https://github.com/qijia77/family.skill) |
@@ -122,6 +124,7 @@
 | 老师.skill（分级教学版） | 先判断你是弱基础还是强基础，再按不同节奏讲同一份资料，连名师风格都能一起模仿。 | [chentao326/teacher-skill](https://github.com/chentao326/teacher-skill) |
 | 老师.skill（框架工程版） | 更像教育版 agent 框架，拆出教学分析、人格建模和版本管理三层流水线。 | [Canding3021/teacher-skill](https://github.com/Canding3021/teacher-skill) |
 | 大学老师.skill | 专门给“这题我上课讲过”的时刻留条活路，把课程重点、题型和评分口味一起蒸出来救你期末。 | [CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
+| 教授.skill（37学科版） | 一条里内置 37 个学科教授，能在教学、评审和导师模式之间自然切换，适合学术问题一键换脑。 | [aituli/professor-skill](https://github.com/aituli/professor-skill) |
 | 导师.skill（继承版） | 导师毕业、退休、转组了也别慌，把判断逻辑、论文规范和批注风格继续留在组里。 | [kongtou-1/mentor-skill](https://github.com/kongtou-1/mentor-skill) |
 | 导师.skill（再伟大版） | 天下硕博苦导师久矣；既然真人难懂，不如先把他的抽象翻译成可执行动作。 | [UniversePeak/Supervisor.skill](https://github.com/UniversePeak/Supervisor.skill) |
 | 导师.skill（可安装版） | 有些判断力比安慰更值钱；把导师装进命令行，至少卡题时还能先救急。 | [SonicBotMan/mentor-skill](https://github.com/SonicBotMan/mentor-skill) |
@@ -139,9 +142,11 @@
 | 论文导师.skill | 不蒸具体某个人，而是把“带你读论文、找相似工作、层层追问”的导师式学习流程直接外挂化。 | [sellerbubble/paper-mentor-skill](https://github.com/sellerbubble/paper-mentor-skill) |
 | 面试导师.skill | 不是题库，而是会打分、建 storybank、做 mock 和复盘的求职面试全流程导师。 | [JunhaoXue/interview-mentor-skill](https://github.com/JunhaoXue/interview-mentor-skill) |
 | 教授.skill（答辩版） | 把教授和答辩委员会那种精准挑刺的压迫感提前请出来，免得你真上场时才被打穿。 | [Zhrq-vis/professor-skill](https://github.com/Zhrq-vis/professor-skill) |
+| 技术导师.skill | 像资深架构师带你按第一性原理拆项目，分四阶段把拓扑、模块、源码和教程一路啃透。 | [ChengChenNO1/code-mentor-skill](https://github.com/ChengChenNO1/code-mentor-skill) |
 | 写作共创导师.skill | 不只是帮你润色文章，而是像一个会拆结构、补论证、推着你写完的共创型写作导师。 | [Ethan-Tang-2035/nuomi-super-writer](https://github.com/Ethan-Tang-2035/nuomi-super-writer) |
 | 赛博HR.skill | 把招聘、筛选、追问和识人那套职场判断力打包进来，像请了个不下班的赛博 HR。 | [Zhrq-vis/CyberHR](https://github.com/Zhrq-vis/CyberHR) |
 | HR.skill | 不只告诉你“很遗憾未能通过”，还把 HR 的筛选逻辑、拒信口吻和招聘判断一起反向拆给你看。 | [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) |
+| 申论老师.skill | 不只是出题，还会带你拆材料、推思路和自动评分，适合考公申论这种边练边改的训练流。 | [ZN-Ice/Openclaw-Shen-Lun-Teacher-Skill](https://github.com/ZN-Ice/Openclaw-Shen-Lun-Teacher-Skill) |
 | 冷邮件吐槽.skill | 与其盲目套磁，不如先请一个毒舌求职顾问把你的冷邮件喷明白，再去投更稳。 | [Schlaflied/roast-cold-email-skill](https://github.com/Schlaflied/roast-cold-email-skill) |
 
 ### 思维类
@@ -206,6 +211,9 @@
 | 塔勒布.skill | 世界专挑平均值骗人的时候给你一拳，所以先学会别站到会塌的桥上。 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
 | 张雪峰.skill | 把志愿、考研和职业选择翻译成人话，顺便提醒你现实从不按鸡汤录取。 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | X导师.skill | 把写作拆成可执行的肌肉记忆，让灵感少迟到，增长别只靠运气。 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
+| 诸子.skill | 不让几个人格轮流念稿，而是真让多视角彼此反驳、收敛，最后再给你一段中立总结。 | [linzzzzzz/zhuzi-skill](https://github.com/linzzzzzz/zhuzi-skill) |
+| 神人TV.skill | 把 23 位互联网神人拉进一间屋子点评任何话题，适合创作、辩论和纯抽象娱乐。 | [BeamusWayne/WeirdoTV-Skill](https://github.com/BeamusWayne/WeirdoTV-Skill) |
+| 赛博甜老师.skill | 不是学科老师，更像把“小红书清醒同行者”的自剖风格蒸成一个陪你聊成长和情绪的数字人格。 | [wanghanlele12345/sweet-teacher-skill](https://github.com/wanghanlele12345/sweet-teacher-skill) |
 | 饕餮.skill | 把优秀 Skill 喂给另一个 Skill，让它边对标边进化，学会把别人的强项吃成自己的。 | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
 | 震哥.skill | 把“性能、质感、价值”那套三维坐标装进脑子里，专治选车和选装备时的犹豫。 | [LBatsoft/zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) |
 | PG.skill | 把 Paul Graham 的创业、写作和独立思考框架装进来，专治想创业但问题还没想对。 | [alchaincyf/paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) |
@@ -246,6 +254,7 @@
 | 自己.skill（能力蒸馏版） | 从飞书 / 钉钉聊天、技术文档和代码习惯里，反向抽出你的工作方式和人格纹理。 | [liaohuanquan/me_skill](https://github.com/liaohuanquan/me_skill) |
 | 自己.skill（飞书分身版） | 更偏从飞书数据里构建 AI 分身，适合想把工作语境、表达习惯和行动偏好一并留档的人。 | [xiaonizhou-crypto/me-skill](https://github.com/xiaonizhou-crypto/me-skill) |
 | 分身.skill | 支持飞书、钉钉、Slack、微信和邮件，把你的工作方式、表达风格和决策路径蒸成可协作的数字分身。 | [however-yir/digital-self-skill](https://github.com/however-yir/digital-self-skill) |
+| 决策分身.skill | 不是帮你摇摆选项，而是先造一个更冷静、更一致、不那么会自欺的“你”来替你做决定。 | [Deep-Octopus/decision-twin.skill](https://github.com/Deep-Octopus/decision-twin.skill) |
 | 自己.skill（性转对话版） | 如果普通自我蒸馏还不够有戏，这条会把“另一个版本的你”请出来，拿来对照和吵架都很合适。 | [Dclef/herself-skill](https://github.com/Dclef/herself-skill) |
 | self-distiller.skill | 有时候最难聊明白的人就是自己；那就先把自己蒸出来，坐下来好好吵一架。 | [KKenny0/self-distiller-skill](https://github.com/KKenny0/self-distiller-skill) |
 | distillme.skill | 更像一台“把我蒸出来”的通用人格压缩机，适合把自我画像和对话风格系统化保存。 | [SonnyNondegeneracy/distillme](https://github.com/SonnyNondegeneracy/distillme) |
@@ -273,6 +282,7 @@
 | 妈妈.skill | 把语音、聊天、照片和那些熟悉的唠叨一起存下来，让“多穿点、多吃点”能一直有人替你说。 | [yuuiwa1551/mama.skill](https://github.com/yuuiwa1551/mama.skill) |
 | Digital Twin of Yourself | 从你的真实写作和文件里反推说话方式、判断逻辑和决策偏好，做成可复用的人格系统提示词。 | [whystrohm/digital-twin-of-yourself](https://github.com/whystrohm/digital-twin-of-yourself) |
 | Digital Person.skill | 把一个人的表达风格、记忆痕迹和互动习惯整理成可持续使用的数字人格备份。 | [justinjia0813/digital-person-skill](https://github.com/justinjia0813/digital-person-skill) |
+| 未来的自己.skill | 更像给未来的你做一套长期可检索的知识档案，把决定、研究和对话洞见一条条沉淀下来。 | [bladngal/notes-to-future-self-skill](https://github.com/bladngal/notes-to-future-self-skill) |
 | 自己.skill（聊天记录版） | 从聊天记录里反向蒸出你自己的表达习惯、情绪纹理和做事手感，给未来留个可对话的自己。 | [lipG-waver/self-skill](https://github.com/lipG-waver/self-skill) |
 | 自己.skill（DeepSeek版） | 用 DeepSeek 接上自我蒸馏流程，适合先低门槛试试把自己做成一个能对话的分身。 | [To-Carpe-Diem/Deepseek-yourself-skill](https://github.com/To-Carpe-Diem/Deepseek-yourself-skill) |
 | 自己.skill（极简版） | 仓库几乎只放一份 `SKILL.md`，像一张极简自我分身卡，适合快速试水“先有个能用的我”。 | [liushengwen158-source/alinger-skill](https://github.com/liushengwen158-source/alinger-skill) |
