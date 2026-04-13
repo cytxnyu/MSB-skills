@@ -1,6 +1,6 @@
 # 👑⚔️🔥 MSB Skills 万魂幡 🔥⚔️👑
 
-> ⚔️ 万魂幡现已收录 **232** 个 skill(魂)
+> ⚔️ 万魂幡现已收录 **243** 个 skill(魂)
 
 > 赛博万魂幡导航 Myriad Soul Banner(MSB万魂幡)
  
@@ -62,6 +62,10 @@
 | 乙女老公.skill | 把纸片人老公做成可日常对话的高甜 skill，支持原型开盲盒、甜度切换和小剧场模式。 | [Daim7/otome-husband-skill](https://github.com/Daim7/otome-husband-skill) |
 | Waifu.skill | 不是你穿越去二次元，而是把虚拟角色召到现实里陪你聊天，连世界观和角色设定都一起带过来。 | [miunasu/waifu-skill](https://github.com/miunasu/waifu-skill) |
 | 虚拟女友.skill（多模态版） | 不只会文字陪聊，还能发语音、自拍、音乐和视频，把好感度和记忆系统一起做进关系体验里。 | [nblzhbz888-rgb/virtual-girlfriend-skill](https://github.com/nblzhbz888-rgb/virtual-girlfriend-skill) |
+| 女友.skill（MVP蒸馏版） | 从结构化资料和聊天文本生成 `persona.md` 与 `interaction.md`，适合先把亲密关系陪伴做成可迭代的最小原型。 | [lala267/girlfriend](https://github.com/lala267/girlfriend) |
+| 女友养成.skill | 把场景、媒体、情绪和关系阶段一起建模，更像一套会长期进化的 AI 女友养成框架。 | [YTYYYYY/girlfriend-cultivation-skill](https://github.com/YTYYYYY/girlfriend-cultivation-skill) |
+| 维京女友.skill | 不是通用陪聊，而是把世界观、情绪状态机和人格节律都写进 OpenClaw 的高设定伴侣 skill。 | [hrabanazviking/Viking_Girlfriend_Skill_for_OpenClaw](https://github.com/hrabanazviking/Viking_Girlfriend_Skill_for_OpenClaw) |
+| AI 女友自拍.skill | 让 AI 女友不只会聊天，还会按日程、穿搭和场景生成自拍与情话，陪伴感更具体。 | [william1hall/aigf-selfie-skill](https://github.com/william1hall/aigf-selfie-skill) |
 | 父母.skill | 趁记忆还热，把那句唠叨留下来；长大以后，最想重听的往往就是这些。 | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
 | 父母.skill（另一版） | 从聊天记录里把父母的说话习惯、关心方式和家常絮叨重新留住，偏向更直接的亲情陪伴。 | [y735832496/parents-skill](https://github.com/y735832496/parents-skill) |
 | 家人.skill（群像版） | 不是只蒸一个人，而是把整个家庭做成群像 skill：共享记忆、关系图和每位成员的独立人格一起留档。 | [qijia77/family.skill](https://github.com/qijia77/family.skill) |
@@ -140,9 +144,14 @@
 | 公司技术.skill | 把散在文档里的技术积累蒸成结构化报告，省得新人和评审会永远在同一个问题上兜圈子。 | [yaofeino1/tech-distiller](https://github.com/yaofeino1/tech-distiller) |
 | 导师.skill（公开资料版） | 从论文、主页和聊天记录里蒸导师，专治“这题我明明问过但还是不会”。 | [Azurboy/Professor_skill](https://github.com/Azurboy/Professor_skill) |
 | 论文导师.skill | 不蒸具体某个人，而是把“带你读论文、找相似工作、层层追问”的导师式学习流程直接外挂化。 | [sellerbubble/paper-mentor-skill](https://github.com/sellerbubble/paper-mentor-skill) |
+| 学术检索.skill | 把论文搜索、问答和在线检索做成 LobsterAI / OpenClaw 可调用的学术搜索 skill，适合科研选题和文献速查。 | [netease-youdao/ScholarClaw](https://github.com/netease-youdao/ScholarClaw) |
 | 面试导师.skill | 不是题库，而是会打分、建 storybank、做 mock 和复盘的求职面试全流程导师。 | [JunhaoXue/interview-mentor-skill](https://github.com/JunhaoXue/interview-mentor-skill) |
 | 教授.skill（答辩版） | 把教授和答辩委员会那种精准挑刺的压迫感提前请出来，免得你真上场时才被打穿。 | [Zhrq-vis/professor-skill](https://github.com/Zhrq-vis/professor-skill) |
 | 技术导师.skill | 像资深架构师带你按第一性原理拆项目，分四阶段把拓扑、模块、源码和教程一路啃透。 | [ChengChenNO1/code-mentor-skill](https://github.com/ChengChenNO1/code-mentor-skill) |
+| 42 Pool 导师.skill | 面向 42 School / 1337 Pool 的 senior peer mentor，主打不直接给答案，而是逼你长出工程师思维。 | [Code-Ninja-Mind/42-pool-mentor-skill](https://github.com/Code-Ninja-Mind/42-pool-mentor-skill) |
+| 导师蒸馏.skill | 把导师的思路和说话方式蒸进 `SKILL.md`，适合把“人走了但指导风格还在”做成可调用能力。 | [Schimasuperbra/distill-my-mentor](https://github.com/Schimasuperbra/distill-my-mentor) |
+| 导师与同行灵感.skill | 不只蒸导师，还会结合同行与 peer group 帮你生研究点子，偏学术研究场景。 | [Yangming911/idea-generator-from-supervisor-and-peers](https://github.com/Yangming911/idea-generator-from-supervisor-and-peers) |
+| QA 导师.skill | 把个人 QA mentor 的提问和辅导结构固化下来，适合测试学习、评审和方法训练。 | [ThiagoMafra-Integrare/qa-mentor-skill](https://github.com/ThiagoMafra-Integrare/qa-mentor-skill) |
 | 写作共创导师.skill | 不只是帮你润色文章，而是像一个会拆结构、补论证、推着你写完的共创型写作导师。 | [Ethan-Tang-2035/nuomi-super-writer](https://github.com/Ethan-Tang-2035/nuomi-super-writer) |
 | 赛博HR.skill | 把招聘、筛选、追问和识人那套职场判断力打包进来，像请了个不下班的赛博 HR。 | [Zhrq-vis/CyberHR](https://github.com/Zhrq-vis/CyberHR) |
 | HR.skill | 不只告诉你“很遗憾未能通过”，还把 HR 的筛选逻辑、拒信口吻和招聘判断一起反向拆给你看。 | [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) |
@@ -182,6 +191,8 @@
 | 米塞斯.skill | 把奥派那套人类行为、经济计算和制度分析框架装进来，适合拆市场、政策和组织激励。 | [LijiayuDeng/mises-perspective](https://github.com/LijiayuDeng/mises-perspective) |
 | 齐泽克.skill | 专门追问你默认了什么、压抑了什么、又是从哪一层开始自我欺骗的。 | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
 | 求是.skill | 从“先调查、再判断、再行动”的路子里提炼九套方法，让 AI 少空话、多抓重点。 | [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill) |
+| 书籍导师.skill | 输入一本书的文本后，让 AI 像作者一样陪你拆核心概念、难点和应用场景，适合主动阅读和知识内化。 | [leiqichn/book-mentor-skill](https://github.com/leiqichn/book-mentor-skill) |
+| 深度学习伙伴.skill | 不替你读书，而是先按你的背景定制 study plan，再陪你读、连、问，像一个可持续追问的深度学习搭子。 | [orhoncan/deep-study-skill](https://github.com/orhoncan/deep-study-skill) |
 | 新青年.skill | 把“认知操作系统”、现实分析和青年式行动感打包进来，适合在复杂问题里重新找主线。 | [SamadhiFire/xinqingnian-skill](https://github.com/SamadhiFire/xinqingnian-skill) |
 | 大师对话.skill | 把古今大师的思想记录蒸成一个可对话的群聊脑库，适合卡思路时临时借脑。 | [casterkay/gurutalk](https://github.com/casterkay/gurutalk) |
 | 特朗普.skill | 不玩模仿秀，直接把谈判、压价、造势和权力博弈那套操作系统塞进 AI 脑子里。 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
